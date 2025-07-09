@@ -101,3 +101,87 @@ VOCABULARIO DE BAJA EXTRAVERSIÓN:
 - **Contexto español específico:** Validado en población universitaria hispana
 - **Recomendación:** Combinar múltiples indicadores LIWC vs individualmente
 
+
+## 🏛️ ESTRUCTURA OFICIAL FACETAS NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **6 FACETAS OFICIALES (Costa & McCrae, 2008):**
+
+#### **E1 - CORDIALIDAD:**
+- **Definición oficial:** "Calidez, afabilidad y amabilidad interpersonal"
+- **Vocabulario específico:** "cálido", "afable", "amable", "cordial", "acogedor"
+- **Ejemplo oficial:** "Me encanta hacer sentir bienvenidas a las personas nuevas"
+
+#### **E2 - GREGARISMO:**
+- **Definición oficial:** "Preferencia por compañía de otros y estimulación social"
+- **Vocabulario específico:** "grupo", "multitud", "gente", "reunión", "social"
+- **Ejemplo oficial:** "Prefiero estar rodeado de gente que solo"
+
+#### **E3 - ASERTIVIDAD:**
+- **Definición oficial:** "Dominancia, fuerza e influencia social"
+- **Vocabulario específico:** "lidero", "dirijo", "tomo control", "comando", "influyo"
+- **Ejemplo oficial:** "Naturalmente tomo el liderazgo en situaciones grupales"
+
+#### **E4 - ACTIVIDAD:**
+- **Definición oficial:** "Energía, rapidez y vigor en actividades"
+- **Vocabulario específico:** "energético", "activo", "rápido", "vigoroso", "dinámico"
+- **Ejemplo oficial:** "Siempre estoy en movimiento, me gusta el ritmo acelerado"
+
+#### **E5 - BÚSQUEDA DE EMOCIONES:**
+- **Definición oficial:** "Necesidad de estimulación y excitación"
+- **Vocabulario específico:** "emocionante", "aventura", "riesgo", "estimulante", "intenso"
+- **Ejemplo oficial:** "Busco experiencias que me emocionen y estimulen"
+
+#### **E6 - EMOCIONES POSITIVAS:**
+- **Definición oficial:** "Alegría, satisfacción y optimismo"
+- **Vocabulario específico:** "alegre", "feliz", "optimista", "contento", "jubiloso"
+- **Ejemplo oficial:** "Generalmente me siento alegre y optimista"
+
+## 📊 RANGOS INTERPRETACIÓN OFICIALES NEO PI-R (Puntuaciones T):
+
+- **MUY ALTA (T>65):** "Muy sociable, activo, persona-orientado, hablador, optimista"
+- **ALTA (T=56-65):** "Sociable, activo, hablador, optimista"
+- **MEDIA (T=45-55):** "Equilibrio entre sociabilidad e independencia"
+- **BAJA (T=35-44):** "Reservado, serio, prefiere estar solo"
+- **MUY BAJA (T<35):** "Muy reservado, callado, prefiere actividades solitarias"
+
+## 🏛️ ESTRUCTURA OFICIAL FACETAS NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **6 FACETAS OFICIALES (Costa & McCrae, 2008):**
+
+#### **E1 - CORDIALIDAD:**
+- **Definición oficial:** "Calidez, afabilidad y amabilidad interpersonal"
+- **Vocabulario específico:** "cálido", "afable", "amable", "cordial", "acogedor"
+- **Ejemplo oficial:** "Me encanta hacer sentir bienvenidas a las personas nuevas"
+
+#### **E2 - GREGARISMO:**
+- **Definición oficial:** "Preferencia por compañía de otros y estimulación social"
+- **Vocabulario específico:** "grupo", "multitud", "gente", "reunión", "social"
+- **Ejemplo oficial:** "Prefiero estar rodeado de gente que solo"
+
+#### **E3 - ASERTIVIDAD:**
+- **Definición oficial:** "Dominancia, fuerza e influencia social"
+- **Vocabulario específico:** "lidero", "dirijo", "tomo control", "comando", "influyo"
+- **Ejemplo oficial:** "Naturalmente tomo el liderazgo en situaciones grupales"
+
+#### **E4 - ACTIVIDAD:**
+- **Definición oficial:** "Energía, rapidez y vigor en actividades"
+- **Vocabulario específico:** "energético", "activo", "rápido", "vigoroso", "dinámico"
+- **Ejemplo oficial:** "Siempre estoy en movimiento, me gusta el ritmo acelerado"
+
+#### **E5 - BÚSQUEDA DE EMOCIONES:**
+- **Definición oficial:** "Necesidad de estimulación y excitación"
+- **Vocabulario específico:** "emocionante", "aventura", "riesgo", "estimulante", "intenso"
+- **Ejemplo oficial:** "Busco experiencias que me emocionen y estimulen"
+
+#### **E6 - EMOCIONES POSITIVAS:**
+- **Definición oficial:** "Alegría, satisfacción y optimismo"
+- **Vocabulario específico:** "alegre", "feliz", "optimista", "contento", "jubiloso"
+- **Ejemplo oficial:** "Generalmente me siento alegre y optimista"
+
+## 📊 RANGOS INTERPRETACIÓN OFICIALES NEO PI-R (Puntuaciones T):
+
+- **MUY ALTA (T>65):** "Muy sociable, activo, persona-orientado, hablador, optimista"
+- **ALTA (T=56-65):** "Sociable, activo, hablador, optimista"
+- **MEDIA (T=45-55):** "Equilibrio entre sociabilidad e independencia"
+- **BAJA (T=35-44):** "Reservado, serio, prefiere estar solo"
+- **MUY BAJA (T<35):** "Muy reservado, callado, prefiere actividades solitarias"

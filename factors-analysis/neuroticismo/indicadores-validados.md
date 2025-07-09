@@ -116,3 +116,45 @@
 - Requiere consideración especial del contexto situacional
 - Factor más sensible a estados emocionales temporales
 - **🆕 FUSIÓN MULTIMODAL:** +4.0% mejora absoluta con múltiples modalidades
+
+## 🏛️ ESTRUCTURA OFICIAL FACETAS NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **6 FACETAS OFICIALES (Costa & McCrae, 2008):**
+
+#### **N1 - ANSIEDAD:**
+- **Definición oficial:** "Preocupación, nerviosismo y tensión"
+- **Vocabulario específico:** "ansioso", "preocupado", "nervioso", "tenso", "inquieto"
+- **Ejemplo oficial:** "Me preocupo por muchas cosas y a menudo me siento ansioso"
+
+#### **N2 - HOSTILIDAD:**
+- **Definición oficial:** "Ira, irritabilidad y frustración"
+- **Vocabulario específico:** "irritable", "enojado", "frustrado", "hostil", "furioso"
+- **Ejemplo oficial:** "Me irrito fácilmente cuando las cosas no salen como espero"
+
+#### **N3 - DEPRESIÓN:**
+- **Definición oficial:** "Sentimientos de tristeza, desaliento y culpa"
+- **Vocabulario específico:** "triste", "deprimido", "desalentado", "melancólico", "culpable"
+- **Ejemplo oficial:** "A menudo me siento triste y desalentado"
+
+#### **N4 - ANSIEDAD SOCIAL:**
+- **Definición oficial:** "Timidez, incomodidad social y vergüenza"
+- **Vocabulario específico:** "tímido", "vergüenza", "incómodo", "cohibido", "embarazoso"
+- **Ejemplo oficial:** "Me siento incómodo en situaciones sociales"
+
+#### **N5 - IMPULSIVIDAD:**
+- **Definición oficial:** "Control deficiente de impulsos y urgencias"
+- **Vocabulario específico:** "impulsivo", "urgencia", "sin control", "inmediato", "irresistible"
+- **Ejemplo oficial:** "A veces actúo impulsivamente y luego me arrepiento"
+
+#### **N6 - VULNERABILIDAD:**
+- **Definición oficial:** "Dificultad para afrontar estrés, tendencia al pánico"
+- **Vocabulario específico:** "abrumado", "vulnerable", "pánico", "desbordado", "indefenso"
+- **Ejemplo oficial:** "Me siento abrumado cuando estoy bajo mucha presión"
+
+## 📊 RANGOS INTERPRETACIÓN OFICIALES NEO PI-R (Puntuaciones T):
+
+- **MUY ALTA (T>65):** "Muy nervioso, emocional, inseguro, inadecuado"
+- **ALTA (T=56-65):** "Nervioso, emocional, inseguro"
+- **MEDIA (T=45-55):** "Generalmente calmado, ocasionalmente emocional"
+- **BAJA (T=35-44):** "Calmado, relajado, no emocional"
+- **MUY BAJA (T<35):** "Muy calmado, relajado, imperturbable"

@@ -137,3 +137,45 @@ Baja: Rutinas familiares + referencias concretas + vocabulario limitado
 - **Contexto específico:** Validado únicamente en auto-descripciones académicas
 - **Población homogénea:** Estudiantes psicología españoles - requiere validación broader
 
+
+## 🏛️ ESTRUCTURA OFICIAL FACETAS NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **6 FACETAS OFICIALES (Costa & McCrae, 2008):**
+
+#### **O1 - FANTASÍA:**
+- **Definición oficial:** "Receptividad hacia mundo interno de imaginación activa"
+- **Vocabulario específico:** "imaginé", "soñé", "fantaseé", "visualicé", "sueño que"
+- **Ejemplo oficial:** "Luego imaginé como si hubiera pasado la clase, pero de alguna manera no en el mundo real como lo conocemos, sino en algún lugar donde la espada aún gobernaba la tierra"
+
+#### **O2 - ESTÉTICA:**
+- **Definición oficial:** "Apreciación profunda de arte, belleza y poesía"
+- **Vocabulario específico:** "hermoso", "arte", "diseño", "estético", "belleza", "elegante"
+- **Ejemplo oficial:** "Me fascina la arquitectura gótica, paso horas admirando cada detalle"
+
+#### **O3 - SENTIMIENTOS:**
+- **Definición oficial:** "Receptividad a propias emociones interiores y las de otros"
+- **Vocabulario específico:** "siento profundamente", "emoción", "sentimiento", "emotivo"
+- **Ejemplo oficial:** "Soy muy consciente de mis emociones y las de quienes me rodean"
+
+#### **O4 - ACCIONES:**
+- **Definición oficial:** "Apertura a nuevas actividades, viajes y experiencias"
+- **Vocabulario específico:** "probar", "experimentar", "viajar", "explorar", "aventura"
+- **Ejemplo oficial:** "Me gusta probar restaurantes étnicos y viajar a lugares diferentes"
+
+#### **O5 - IDEAS:**
+- **Definición oficial:** "Curiosidad intelectual y apertura mental"
+- **Vocabulario específico:** "filosofía", "teoría", "concepto", "reflexionar", "analizar"
+- **Ejemplo oficial:** "Disfruto discutiendo ideas complejas y teorías abstractas"
+
+#### **O6 - VALORES:**
+- **Definición oficial:** "Disposición a reexaminar valores sociales, políticos, religiosos"
+- **Vocabulario específico:** "cuestionar", "replantearse", "valores", "tradicional", "reexaminar"
+- **Ejemplo oficial:** "Cuestiono constantemente mis creencias y estoy abierto a nuevas perspectivas"
+
+## 📊 RANGOS INTERPRETACIÓN OFICIALES NEO PI-R (Puntuaciones T):
+
+- **MUY ALTA (T>65):** "Muy creativo, original, curioso, imaginativo"
+- **ALTA (T=56-65):** "Creativo, curioso, poco convencional" 
+- **MEDIA (T=45-55):** "Equilibrio entre intereses prácticos y creativos"
+- **BAJA (T=35-44):** "Convencional, prefiere lo familiar"
+- **MUY BAJA (T<35):** "Muy convencional, prefiere rutinas establecidas"

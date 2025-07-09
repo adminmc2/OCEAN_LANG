@@ -255,3 +255,45 @@ Cada quien debe resolver sus asuntos. La competencia académica es individual."
 - **Efectos robustos:** "yo" β=-0.550 efecto significativo y grande
 - **Población española:** Validación específica en contexto universitario español
 
+
+## 🏛️ ESTRUCTURA OFICIAL FACETAS NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **6 FACETAS OFICIALES (Costa & McCrae, 2008):**
+
+#### **A1 - CONFIANZA:**
+- **Definición oficial:** "Disposición a creer en honestidad e intenciones de otros"
+- **Vocabulario específico:** "confío", "honesto", "sincero", "buenas intenciones", "creer"
+- **Ejemplo oficial:** "Generalmente confío en que las personas son honestas"
+
+#### **A2 - FRANQUEZA:**
+- **Definición oficial:** "Sinceridad y candidez en relaciones interpersonales"
+- **Vocabulario específico:** "sincero", "franco", "directo", "honesto", "abierto"
+- **Ejemplo oficial:** "Soy franco y directo en mis relaciones con otros"
+
+#### **A3 - ALTRUISMO:**
+- **Definición oficial:** "Preocupación activa por bienestar de otros"
+- **Vocabulario específico:** "ayudar", "altruista", "generoso", "desinteresado", "servir"
+- **Ejemplo oficial:** "Encuentro recompensa en ayudar a otros"
+
+#### **A4 - ACTITUD CONCILIADORA:**
+- **Definición oficial:** "Tendencia al perdón, comprensión, no vengativo"
+- **Vocabulario específico:** "perdón", "comprensivo", "tolerante", "pacífico", "conciliador"
+- **Ejemplo oficial:** "Prefiero cooperar antes que competir con otros"
+
+#### **A5 - MODESTIA:**
+- **Definición oficial:** "Humildad, no pretencioso, modesto"
+- **Vocabulario específico:** "modesto", "humilde", "sencillo", "sin pretensiones"
+- **Ejemplo oficial:** "No me gusta presumir de mis logros"
+
+#### **A6 - SENSIBILIDAD A LOS DEMÁS:**
+- **Definición oficial:** "Simpatía y compasión por otros"
+- **Vocabulario específico:** "compasivo", "empático", "sensible", "comprensivo", "solidario"
+- **Ejemplo oficial:** "Me conmuevo fácilmente por las necesidades de otros"
+
+## 📊 RANGOS INTERPRETACIÓN OFICIALES NEO PI-R (Puntuaciones T):
+
+- **MUY ALTA (T>65):** "Muy bueno, compasivo, confiado, útil"
+- **ALTA (T=56-65):** "Bueno, cooperativo, confiado"
+- **MEDIA (T=45-55):** "Generalmente compasivo pero realista"
+- **BAJA (T=35-44):** "Egocéntrico, escéptico, competitivo"
+- **MUY BAJA (T<35):** "Antagónico, egocéntrico, desconfiado"
