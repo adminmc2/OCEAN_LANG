@@ -179,3 +179,33 @@ Baja: Rutinas familiares + referencias concretas + vocabulario limitado
 - **MEDIA (T=45-55):** "Equilibrio entre intereses prácticos y creativos"
 - **BAJA (T=35-44):** "Convencional, prefiere lo familiar"
 - **MUY BAJA (T<35):** "Muy convencional, prefiere rutinas establecidas"
+
+## 🇪🇸 VOCABULARIO TÉCNICO OFICIAL ESPAÑOL (Hogrefe TEA 2024)
+
+### **INTERPRETACIONES OFICIALES POR NIVEL:**
+
+#### **APERTURA BAJA - TERMINOLOGÍA OFICIAL:**
+✅ **"con los pies en la tierra"** - Enfoque práctico y realista
+✅ **"práctica"** - Orientación hacia aplicaciones concretas  
+✅ **"tradicional"** - Preferencia por métodos establecidos
+✅ **"comprometida con métodos existentes"** - Resistencia al cambio metodológico
+✅ **"poco interés por el arte y la belleza"** - Baja sensibilidad estética
+✅ **"poco receptivo a sentimientos"** - Minimización de experiencia emocional
+✅ **"métodos probados"** - Preferencia por evidencia empírica
+✅ **"ideas prácticas y realistas"** - Evitación de abstracción
+✅ **"valores profundamente arraigados"** - Consistencia ideológica
+✅ **"acepta la autoridad"** - Respeto por jerarquías establecidas
+✅ **"se apega a la tradición"** - Preservación de costumbres
+
+#### **APERTURA ALTA - TERMINOLOGÍA OFICIAL:**
+✅ **"imaginación muy viva y creativa"** - Fantasía elaborada
+✅ **"puede generar nuevas soluciones"** - Creatividad aplicada
+✅ **"añadir aportaciones originales"** - Innovación conceptual
+✅ **"nuevas experiencias"** - Búsqueda de novedad
+✅ **"teorías y conceptos abstractos"** - Pensamiento complejo
+
+### **🔬 VALIDACIÓN TÉCNICA OFICIAL:**
+- **Fuente:** Manual NEO PI-R español (TEA Ediciones, 2024)
+- **Población:** Baremos españoles población general adultos
+- **Metodología:** Interpretación profesional validada
+- **Aplicación:** Contexto clínico y organizacional español

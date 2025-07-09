@@ -98,3 +98,23 @@ VOCABULARIO DE BAJA RESPONSABILIDAD:
 - **Contexto español:** Indicadores calibrados específicamente para población hispanohablante
 - **Validación automática:** Usar consistencia 98.2% como benchmark de confiabilidad
 
+
+## 🇪🇸 VOCABULARIO TÉCNICO OFICIAL ESPAÑOL (Hogrefe TEA 2024)
+
+### **RESPONSABILIDAD BAJA - TERMINOLOGÍA OFICIAL:**
+✅ **"algo desorganizada"** - Falta de estructura sistemática
+✅ **"poco cuidado en trabajo"** - Calidad variable en tareas
+✅ **"prefiere no hacer planes"** - Evitación de planificación
+✅ **"duda de capacidades"** - Baja autoeficacia
+✅ **"más difícil organizarse"** - Dificultades estructurales
+✅ **"modo sistemático y metódico"** - Carencia de metodología
+✅ **"no siente deber cumplir obligaciones"** - Baja conformidad social
+✅ **"objetivos alcanzables"** - Ambición limitada
+✅ **"deja cosas para más tarde"** - Procrastinación habitual
+✅ **"decisiones con rapidez"** - Impulsividad decisional
+✅ **"antes de considerar opciones"** - Falta de deliberación
+
+### **🔬 VALIDACIÓN TÉCNICA OFICIAL:**
+- **Fuente:** Manual NEO PI-R español (TEA Ediciones, 2024)
+- **Interpretación:** Profesional psicológica validada
+- **Contexto:** Población adulta española general

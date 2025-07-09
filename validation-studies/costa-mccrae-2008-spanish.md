@@ -145,3 +145,77 @@ Costa, P. T., Jr., & McCrae, R. R. (2008). *Inventario de Personalidad NEO Revis
 
 **Fuente adicional:** Documento comercial TEA Ediciones/Hogrefe (2024). Perfil ilustrativo NEO PI-R aplicado el 10/01/2024 con baremo población general española.
 
+
+## 📊 CASO ILUSTRATIVO OFICIAL - PERFIL NEO PI-R (AÑADIDO 2024)
+
+### **Información del Caso:**
+- **ID:** Caso ilustrativo TEA Ediciones
+- **Edad:** 25 años, varón
+- **Fecha aplicación:** 10/01/2024
+- **Baremo:** Población general, adultos españoles
+- **Instrumento:** NEO PI-R oficial con interpretación por niveles
+
+### **🎯 INTERPRETACIONES OFICIALES TEXTUALES:**
+
+#### **🎨 APERTURA - PUNTUACIÓN BAJA:**
+**Interpretación oficial:** "Es una persona con los pies en la tierra, práctica, tradicional y comprometida con los métodos ya existentes."
+**Características específicas:**
+- **Fantasía alta:** "Posee una imaginación muy viva y creativa. Puede generar nuevas soluciones a los problemas"
+- **Estética baja:** "Muestra poco interés por el arte y la belleza"
+- **Sentimientos bajos:** "Es poco receptivo a sus propios sentimientos: puede ignorarlos o no ser consciente de ellos"
+- **Acciones moderadas:** "Le gustan las nuevas experiencias tanto como a la mayoría, aunque también valora las cosas familiares"
+- **Ideas bajas:** "Se centra en los métodos probados y desarrolla ideas que son prácticas y realistas"
+- **Valores tradicionales:** "Posee valores profundamente arraigados que son muy importantes. Acepta la autoridad y se apega a la tradición"
+
+#### **📋 RESPONSABILIDAD - PUNTUACIÓN BAJA:**
+**Interpretación oficial:** "Se considera una persona algo desorganizada y que muestra poco cuidado en su trabajo. Prefiere no hacer planes."
+**Características específicas:**
+- **Competencia baja:** "Duda de sus propias capacidades y a menudo siente que no está preparado para enfrentarse a nuevos retos"
+- **Orden bajo:** "Encuentra más difícil que la mayoría organizarse y afrontar las tareas de un modo sistemático y metódico"
+- **Sentido del deber bajo:** "No se siente con el deber de cumplir con las obligaciones impuestas por la sociedad"
+- **Necesidad de logro baja:** "Busca objetivos alcanzables en lugar de ambiciosos y se muestra menos propenso que la mayoría a hacer esfuerzos adicionales"
+- **Autodisciplina baja:** "A menudo deja las cosas para más tarde. Se siente más cómodo pasando de una tarea a otra que completándolas"
+- **Deliberación baja:** "Toma decisiones con rapidez y actúa antes de considerar todas las opciones y consecuencias"
+
+#### **🎉 EXTRAVERSIÓN - PUNTUACIÓN BAJA:**
+**Interpretación oficial:** "Se ve a sí mismo como alguien introvertido, reservado y serio. Prefiere estar solo o en compañía de amigos muy íntimos y cercanos."
+**Características específicas:**
+- **Cordialidad baja:** "Es una persona más reservada y distante que las demás. Entre sus prioridades no está el conocer gente"
+- **Gregarismo moderado:** "Prefiere cierto equilibrio entre el tiempo que pasa en compañía de gente y el que pasa solo"
+- **Asertividad moderada:** "Invierte cierta energía en expresar sus ideas, influir en los demás y asumir un papel de liderazgo"
+- **Actividad moderada:** "Tiene un ritmo de vida moderadamente enérgico y no siente una especial necesidad de estar siempre ocupado"
+- **Búsqueda emociones moderada:** "Disfruta ocasionalmente con los entornos estimulantes, arriesgados y emocionantes"
+- **Emociones positivas bajas:** "Adopta una actitud seria y prudente y se muestra menos exuberante y optimista que los demás"
+
+#### **🤝 AMABILIDAD - PUNTUACIÓN BAJA:**
+**Interpretación oficial:** "Se ve a sí mismo como una persona realista, escéptica, orgullosa y competitiva. Tiende a expresar su enfado con pocos miramientos."
+**Características específicas:**
+- **Confianza baja:** "Tiende a ser escéptica y a pensar que las personas pueden ser peligrosas o poco honradas"
+- **Franqueza baja:** "Es capaz de manipular a los demás mediante el halago, la astucia o el engaño. Considera estas tácticas como habilidades sociales necesarias"
+- **Altruismo bajo:** "Prefiere no implicarse personalmente en los problemas de los demás; tiende a dar un paso atrás"
+- **Actitud conciliadora moderada:** "Se muestra igual de preocupado que la mayoría por mantener un clima de armonía y cooperación"
+- **Modestia baja:** "Hace saber sus puntos fuertes y sus logros a los demás. Es posible que otros puedan considerarle una persona arrogante"
+- **Sensibilidad otros baja:** "Se centra en los resultados más que en las necesidades de las personas. Es capaz de tomar decisiones impopulares"
+
+#### **😰 REACTIVIDAD EMOCIONAL - PUNTUACIÓN MEDIA:**
+**Interpretación oficial:** "Es una persona generalmente calmada y capaz de enfrentarse a situaciones estresantes. Sin embargo, algunas veces experimenta también sentimientos de culpa, ira o tristeza."
+**Características específicas:**
+- **Ansiedad media:** "Se siente preocupado y aprensivo sobre los aspectos de la vida en general. Ante cualquier acontecimiento, es probable que piense que las cosas van a ir mal"
+- **Hostilidad media:** "Se siente molesto y frustrado en un grado medio cuando las cosas no van por el buen camino"
+- **Depresión baja:** "Se siente menos desanimado, triste o desesperanzado que la mayoría cuando surgen contratiempos"
+- **Ansiedad social media:** "Con frecuencia se siente ansioso en las situaciones sociales. Ejerce un estrecho control sobre su comportamiento"
+- **Impulsividad media:** "Considera que tiene la misma fuerza de voluntad que la mayoría a la hora de resistirse a los impulsos"
+- **Vulnerabilidad media:** "Se describe a sí mismo como alguien vulnerable y propenso a experimentar estrés. Prefiere trabajar en entornos tranquilos"
+
+### **🔬 METODOLOGÍA OFICIAL DE INTERPRETACIÓN:**
+- **Niveles de puntuación:** Bajo, Medio, Alto con interpretaciones específicas
+- **Análisis por facetas:** 6 subfactores por cada dimensión principal
+- **Lenguaje profesional:** Terminología técnica española validada
+- **Consideraciones contextuales:** Efectos de deseabilidad social documentados
+- **Aplicación profesional:** Requiere cualificación psicológica apropiada
+
+### **📈 BENCHMARKS OFICIALES ESPAÑOLES:**
+- **Muestra:** N=4,000 población general española
+- **Correcciones:** Efectos de contexto (selección vs investigación)
+- **Baremos diferenciados:** Por edad, sexo y contexto de aplicación
+- **Validación transcultural:** Equivalencia métrica con versión estadounidense confirmada
