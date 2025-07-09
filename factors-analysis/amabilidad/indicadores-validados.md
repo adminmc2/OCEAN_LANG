@@ -207,3 +207,51 @@ Cada quien debe resolver sus asuntos. La competencia académica es individual."
 □ Rechazo explícito de ayuda ("no soy tu tutor")
 □ Lenguaje agresivo o confrontacional
 □ Referencias a superioridad ("obviamente mejor", "claramente superior")
+
+## 🇪🇸 INDICADORES LIWC ESPAÑOL VALIDADOS (Martínez-Huertas et al., 2022)
+
+### **EVIDENCIA CROSS-VALIDATION ESPAÑOLA (N=643)**
+**POBLACIÓN:** Estudiantes universitarios españoles de psicología
+**METODOLOGÍA:** 1000 cross-validations, LIWC español, auto-descripciones
+**HALLAZGO CLAVE:** Amabilidad detectada por AUSENCIA de autocentramiento
+
+#### **🏆 INDICADOR MÁS DISTINTIVO: MENOS "YO"**
+✅ **"yo" (β=-0.550**, p<0.01)**
+- **Interpretación:** Estudiantes amables usan MENOS pronombre "yo" 
+- **Implicación:** Menor autocentramiento lingüístico = mayor orientación hacia otros
+- **Efecto grande:** β=-0.550 entre los efectos más fuertes detectados
+- **Validación:** Consistente con teoría psicológica de orientación prosocial
+
+#### **OTROS INDICADORES LIWC SIGNIFICATIVOS:**
+✅ **"Conteo de palabras" (β=0.117*, consistencia 88.4%)** - Textos más elaborados por consideración
+✅ **"Pronombres personales" (β=0.582**)** - Más referencias interpersonales generales
+✅ **"Él/ella" (β=-0.478**)** - Menos enfoque en terceras personas específicas  
+✅ **"Palabras diccionario" (β=0.222**)** - Vocabulario más estándar y considerado
+✅ **"Exclamaciones" (β=0.109**)** - Mayor expresividad emocional positiva
+
+#### **PATRONES VERBALES AMABLES:**
+❌ **"Verbos primera persona" (β=-0.109**)** - Menos acciones autocentradas
+❌ **"Verbos segunda persona" (β=-0.154**)** - Menos imperativos directos
+❌ **"Verbos tercera persona" (β=-0.090*)** - Menos juicios sobre otros
+❌ **"Adverbios" (β=-0.180**)** - Menor intensificación personal
+❌ **"Cuantificadores" (β=-0.114**)** - Menos precisión técnica/distante
+
+### **🧠 INTERPRETACIÓN PSICOLÓGICA:**
+**PATRÓN CONFIRMADO:** Alta amabilidad = **DESCENTRAMIENTO LINGÜÍSTICO**
+- **Menos "yo":** Menor narcisismo lingüístico
+- **Textos más largos:** Mayor consideración hacia audiencia
+- **Menos verbos personales:** Menor imposición o directividad
+- **Más expresividad:** Calidez emocional vs frialdad técnica
+
+### **🎯 APLICACIONES AUTOMÁTICAS:**
+- **Conteo "yo":** Frecuencia inversa como indicador de amabilidad
+- **Análisis verbal:** Patrones de conjugación como indicadores de orientación social
+- **Longitud considerada:** Textos más elaborados por empatía hacia receptor
+- **Validación española:** Calibrado específicamente para contexto hispanohablante
+
+### **📊 MÉTRICAS DE CONFIANZA:**
+- **R² = 13.7%** varianza explicada (segundo mejor después de Responsabilidad)
+- **Cross-validation sólida:** 88.4% consistencia en selección Word Count
+- **Efectos robustos:** "yo" β=-0.550 efecto significativo y grande
+- **Población española:** Validación específica en contexto universitario español
+

@@ -58,3 +58,43 @@ VOCABULARIO DE BAJA RESPONSABILIDAD:
 ❌ "la noche anterior y ni siquiera habré empezado"
 ❌ "realmente no trabajé duro", "no presté atención"
 ❌ "espero que sea comprensivo" (dependencia factores externos)
+
+## 🇪🇸 INDICADORES LIWC ESPAÑOL VALIDADOS (Martínez-Huertas et al., 2022)
+
+### **EVIDENCIA CROSS-VALIDATION RIGUROSA (N=643)**
+**POBLACIÓN:** Estudiantes universitarios españoles de psicología
+**METODOLOGÍA:** 1000 cross-validations, auto-descripciones ~500 palabras
+**CONTEXTO:** Primera validación LIWC específica en español con generalizabilidad
+
+#### **🏆 INDICADOR MÁS ROBUSTO: CONTEO DE PALABRAS**
+✅ **"Word Count" (β=0.175*, consistencia 98.2%)**
+- **Interpretación:** Estudiantes responsables escriben textos MÁS LARGOS
+- **Evidencia:** Seleccionado en 982 de 1000 cross-validations
+- **Media española:** 363.37 palabras (SD=153.03)
+- **Aplicación práctica:** Longitud de texto como indicador automático de responsabilidad
+
+#### **INDICADORES LIWC TÉCNICOS VALIDADOS:**
+✅ **"Pronombres personales" (β=0.142**)** - Mayor estructura personal organizada
+✅ **"Preposiciones" (β=0.106*)** - Complejidad sintáctica que refleja planificación
+✅ **"Palabras inclusivas" (β=0.128**)** - Vocabulario de organización comprehensiva
+✅ **"Tiempo" (β=0.215*)** - Referencias temporales específicas y estructuradas
+✅ **"Logro" (β=0.109**)** - Vocabulario orientado a metas y cumplimiento
+✅ **"Placer" (β=0.213**)** - Satisfacción por organización y cumplimiento de tareas
+✅ **"Comas" (β=0.112**)** - Estructura gramatical organizada y cuidadosa
+✅ **"Comillas" (β=0.078*)** - Precisión en referencias y citación
+
+#### **INDICADORES LIWC NEGATIVOS ESPAÑOLES:**
+❌ **"Él/ella" (β=-0.119**)** - Menos enfoque en otros, más autocontrol
+❌ **"Hogar" (β=-0.162*)** - Priorización académica sobre asuntos domésticos
+
+### **⚠️ LIMITACIONES METODOLÓGICAS IDENTIFICADAS:**
+- **Contexto específico:** Validado en auto-descripciones académicas únicamente
+- **Población homogénea:** Estudiantes psicología españoles (87% mujeres)
+- **Generalizabilidad:** Requiere validación en otros contextos y poblaciones
+
+### **🎯 APLICACIONES PRÁCTICAS:**
+- **Screening académico:** Word Count como indicador rápido de responsabilidad estudiantil
+- **Análisis textual:** Combinar longitud con indicadores sintácticos (comas, preposiciones)
+- **Contexto español:** Indicadores calibrados específicamente para población hispanohablante
+- **Validación automática:** Usar consistencia 98.2% como benchmark de confiabilidad
+
