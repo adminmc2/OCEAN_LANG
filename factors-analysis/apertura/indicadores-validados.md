@@ -91,3 +91,49 @@ INDICADORES DIFERENCIADORES:
 Alta: Creación original + imaginación abstracta + vocabulario complejo
 Baja: Rutinas familiares + referencias concretas + vocabulario limitado
 
+
+## 🇪🇸 INDICADORES LIWC ESPAÑOL VALIDADOS (Martínez-Huertas et al., 2022)
+
+### **EVIDENCIA CROSS-VALIDATION ESPAÑOLA (N=643)**
+**POBLACIÓN:** Estudiantes universitarios españoles de psicología
+**METODOLOGÍA:** 1000 cross-validations, auto-descripciones ~500 palabras
+**HALLAZGO:** Apertura con **BAJA generalizabilidad** en contexto español universitario
+
+#### **🔴 LIMITACIONES CROSS-VALIDATION CONFIRMADAS:**
+- **Performance conjunto:** R=0.373 (13.9% varianza)  
+- **Cross-validation:** R=0.14 (SD=0.06, Min=-0.08, Max=0.33)
+- **Interpretación:** **ALTA VARIABILIDAD** entre muestras españolas - confirma dificultad factor
+
+#### **INDICADORES LIWC TÉCNICOS VALIDADOS:**
+✅ **"Palabras grandes" (>6 letras, β=0.117*)** - Complejidad léxica y abstracta
+✅ **"Conjunciones" (β=0.221**)** - Estructura sintáctica compleja y conectiva
+✅ **"Pronombres impersonales" (β=0.253**)** - Abstracción vs concreción personal
+✅ **"Biología" (β=0.411*)** - Interés científico especializado
+✅ **"Sentimientos" (β=0.082*)** - Exploración emocional y psicológica
+
+#### **INDICADORES LIWC NEGATIVOS ESPAÑOLES:**
+❌ **"Palabras función" (β=-0.173**)** - Menor uso de estructura gramatical básica
+❌ **"Presente" (β=-0.169**)** - Menos enfoque en realidad inmediata
+❌ **"Familia" (β=-0.153**)** - Menor orientación hacia lo familiar/tradicional
+❌ **"Humanos" (β=-0.124**)** - Menos enfoque en aspectos humanos convencionales
+❌ **"Salud" (β=-0.282*)** - Evitación temas concretos de salud rutinaria
+❌ **"Comer" (β=-0.252*)** - Menor interés en aspectos básicos/rutinarios
+
+### **🧠 INTERPRETACIÓN PATRÓN LIWC APERTURA:**
+**COMPLEJIDAD SINTÁCTICA + ABSTRACCIÓN:**
+- **Más conjunciones:** Pensamiento conectivo complejo
+- **Más palabras largas:** Vocabulario sofisticado
+- **Menos función básica:** Evitación simplicidad estructural
+- **Menos presente inmediato:** Orientación temporal abstracta
+
+### **🎯 APLICACIONES ESPECÍFICAS ESPAÑOL:**
+- **Análisis léxico:** Longitud promedio palabras como indicador automático
+- **Estructura sintáctica:** Densidad de conjunciones vs simplicidad
+- **Temática:** Presencia biología/ciencia vs temas cotidianos básicos
+- **Validación:** Requiere múltiples muestras por baja generalizabilidad (R=0.14)
+
+### **⚠️ LIMITACIONES CRÍTICAS ESPAÑOLAS:**
+- **Baja consistencia:** Solo 35.3% cross-validations detectan patrones similares
+- **Contexto específico:** Validado únicamente en auto-descripciones académicas
+- **Población homogénea:** Estudiantes psicología españoles - requiere validación broader
+
