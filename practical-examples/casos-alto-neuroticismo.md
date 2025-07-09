@@ -393,3 +393,24 @@ perspectiva objetiva y apoyo efectivo."
 
 ### **CONSIDERACIONES FINALES:**
 El Neuroticismo, siendo el factor más complejo y variable de OCEAN, requiere máxima precaución en aplicaciones automáticas. Su detección confiable necesita fusión multimodal y validación temporal, pero su importancia para predicir bienestar mental y necesidades de apoyo lo convierte en factor crítico para sistemas de salud y bienestar organizacional. La evidencia científica confirma que requiere los métodos más sofisticados disponibles y validación humana para aplicaciones importantes.
+
+## 🏛️ CASOS OFICIALES MANUAL NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **CASO OFICIAL "ANXIOUS" (T=68) - Manual Español:**
+**PERFIL:** Estudiante Medicina, 24 años, Hombre
+**PUNTUACIONES FACETAS OFICIALES:**
+- N1 Ansiedad: T=75 (Muy alta)
+- N2 Hostilidad: T=52 (Media)
+- N3 Depresión: T=62 (Alta)
+- N4 Ansiedad social: T=70 (Alta)
+- N5 Impulsividad: T=45 (Media)
+- N6 Vulnerabilidad: T=65 (Alta)
+
+**TEXTO EJEMPLO OFICIAL:**
+"Me preocupo constantemente por mi rendimiento académico. Los exámenes me generan mucha ansiedad y a veces me siento abrumado por la presión."
+
+**INTERPRETACIÓN OFICIAL:**
+- **Ansiedad académica:** Preocupación excesiva por rendimiento
+- **Vulnerabilidad al estrés:** Se siente abrumado bajo presión
+- **Ansiedad social:** Incomodidad en situaciones evaluativas
+- **Autocontrol preservado:** Impulsividad no elevada

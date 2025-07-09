@@ -335,3 +335,30 @@ Mi experiencia y carisma generan confianza en métodos establecidos."
 
 ### **CONSIDERACIONES FINALES:**
 La Apertura, siendo el factor más complejo de detectar automáticamente, requiere aproximaciones multimodales y validación cuidadosa. Su valor predictivo para innovación y adaptabilidad la convierte en crucial para roles creativos y de liderazgo transformacional, mientras que niveles moderados-bajos pueden ser preferibles para roles que requieren especialización técnica profunda y adherencia a procedimientos establecidos.
+
+## 🏛️ CASOS OFICIALES MANUAL NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **CASO OFICIAL "ARTIST" (T=72) - Manual Español:**
+**PERFIL:** Estudiante de Arte, 22 años, Mujer
+**PUNTUACIONES FACETAS OFICIALES:**
+- O1 Fantasía: T=78 (Muy alta)
+- O2 Estética: T=82 (Muy alta) 
+- O3 Sentimientos: T=68 (Alta)
+- O4 Acciones: T=65 (Alta)
+- O5 Ideas: T=70 (Alta)
+- O6 Valores: T=58 (Media-Alta)
+
+**TEXTO EJEMPLO OFICIAL:**
+"Mi creatividad fluye mejor sin estructura rígida. Soy muy sensible a mi entorno emocional y esto alimenta mi arte. Los plazos me estresan pero genero ideas originales constantemente."
+
+**INTERPRETACIÓN OFICIAL:**
+- **Creatividad intensa:** Necesita flexibilidad para expresión óptima
+- **Sensibilidad estética:** Muy alta apreciación artística y emocional
+- **Ideas originales:** Generación constante de conceptos innovadores
+- **Resistencia a estructura:** Funciona mejor sin limitaciones externas
+
+### **APLICACIONES PROFESIONALES OFICIALES:**
+- **Artes creativas:** Pintura, música, escritura creativa
+- **Diseño innovador:** Arquitectura, diseño gráfico, moda
+- **Investigación exploratoria:** Ciencias sociales, antropología
+- **Consultoría creativa:** Soluciones no convencionales

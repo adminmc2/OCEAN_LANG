@@ -410,3 +410,24 @@ humanas cambian constantemente y requieren flexibilidad más que protocolos ríg
 
 ### **CONSIDERACIONES FINALES:**
 La Responsabilidad, siendo el predictor más fuerte del éxito académico y profesional real, es especialmente valiosa para evaluación de roles que requieren cumplimiento, gestión de proyectos y entrega de resultados. Sin embargo, la evidencia contradictoria en detección automática textual requiere validación cuidadosa con múltiples métodos para aplicaciones críticas. Su universalidad cross-cultural y robustez temporal la convierten en factor clave para desarrollo profesional y selección organizacional a largo plazo.
+
+## 🏛️ CASOS OFICIALES MANUAL NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **CASO OFICIAL "ORGANIZER" (T=75) - Manual Español:**
+**PERFIL:** Coordinadora Académica, 29 años, Mujer  
+**PUNTUACIONES FACETAS OFICIALES:**
+- C1 Competencia: T=72 (Muy alta)
+- C2 Orden: T=80 (Muy alta)
+- C3 Sentido del deber: T=78 (Muy alta)
+- C4 Necesidad logro: T=68 (Alta)
+- C5 Autodisciplina: T=70 (Alta)
+- C6 Deliberación: T=65 (Alta)
+
+**TEXTO EJEMPLO OFICIAL:**
+"Siempre cumplo mis compromisos y mantengo todo perfectamente organizado. Planifico con semanas de anticipación y nunca dejo tareas importantes para el último momento."
+
+**INTERPRETACIÓN OFICIAL:**
+- **Organización excepcional:** Sistemas estructurados para máxima eficiencia
+- **Cumplimiento inquebrantable:** Integridad total en compromisos
+- **Planificación anticipada:** Previsión y preparación sistemática
+- **Autodisciplina desarrollada:** Control personal para objetivos largo plazo

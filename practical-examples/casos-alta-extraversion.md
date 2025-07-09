@@ -380,3 +380,24 @@ brindar apoyo profundo sin la energía que requieren los grupos."
 
 ### **CONSIDERACIONES FINALES:**
 La Extraversión, siendo el factor más fácil de detectar automáticamente y con mayor evidencia empírica, es especialmente útil para evaluación de liderazgo y roles sociales. Su alta correlación con performance en gestión de equipos la convierte en predictor clave para desarrollo profesional y selección organizacional, especialmente cuando se combina con otros factores OCEAN para perfiles completos.
+
+## 🏛️ CASOS OFICIALES MANUAL NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **CASO OFICIAL "EXECUTIVE" (T=68) - Manual Español:**
+**PERFIL:** Gerente Comercial, 35 años, Hombre
+**PUNTUACIONES FACETAS OFICIALES:**
+- E1 Cordialidad: T=72 (Muy alta)
+- E2 Gregarismo: T=65 (Alta)
+- E3 Asertividad: T=70 (Alta)
+- E4 Actividad: T=58 (Media-Alta)
+- E5 Búsqueda emociones: T=52 (Media)
+- E6 Emociones positivas: T=75 (Muy alta)
+
+**TEXTO EJEMPLO OFICIAL:**
+"Me encanta liderar equipos y coordinar proyectos complejos. La interacción con clientes me energiza y siempre mantengo una actitud optimista que contagia al grupo. Disfruto las presentaciones públicas."
+
+**INTERPRETACIÓN OFICIAL:**
+- **Liderazgo natural:** Asertividad combinada con cordialidad
+- **Energía social:** Se revitaliza con interacciones interpersonales
+- **Optimismo contagioso:** Influencia positiva en ambiente grupal
+- **Orientación a logros sociales:** Éxito a través de relaciones

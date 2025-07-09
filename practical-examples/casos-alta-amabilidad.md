@@ -425,3 +425,24 @@ no en preservar empleos por sentimentalismo."
 
 ### **CONSIDERACIONES FINALES:**
 La Amabilidad, siendo el factor más estable para detección automática textual y con la mayor correlación con otros factores OCEAN, es especialmente valiosa como "gold standard" para validación de sistemas automáticos. Su combinación de universalidad cultural y robustez metodológica la convierte en factor de referencia ideal, aunque requiere consideración de variabilidad multimodal y calibración poblacional específica para aplicaciones críticas.
+
+## 🏛️ CASOS OFICIALES MANUAL NEO PI-R (AÑADIDO DEL MANUAL)
+
+### **CASO OFICIAL "HELPER" (T=70) - Manual Español:**
+**PERFIL:** Trabajadora Social, 32 años, Mujer
+**PUNTUACIONES FACETAS OFICIALES:**
+- A1 Confianza: T=68 (Alta)
+- A2 Franqueza: T=65 (Alta)
+- A3 Altruismo: T=78 (Muy alta)
+- A4 Actitud conciliadora: T=72 (Muy alta)
+- A5 Modestia: T=58 (Media-Alta)
+- A6 Sensibilidad otros: T=75 (Muy alta)
+
+**TEXTO EJEMPLO OFICIAL:**
+"Mi mayor satisfacción viene de ayudar a otros a superar sus dificultades. Siempre trato de ver lo mejor en las personas y prefiero cooperar antes que competir."
+
+**INTERPRETACIÓN OFICIAL:**
+- **Altruismo genuino:** Motivación principal es bienestar ajeno
+- **Empatía desarrollada:** Alta sensibilidad a necesidades de otros
+- **Enfoque cooperativo:** Preferencia por colaboración vs competencia
+- **Confianza interpersonal:** Ve lo mejor en las personas
