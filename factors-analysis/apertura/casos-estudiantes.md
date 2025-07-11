@@ -114,6 +114,44 @@
 **Situación:** Antes del mismo examen
 > "Espero que solo pongan lo que estudiamos. He repasado todos los temas del syllabus tres veces. No quiero sorpresas ni preguntas raras que no vimos en clase."
 
+## Casos Cross-Culturales Foundational (Benet-Martínez 1998)
+
+### Estudiantes Españoles vs Americanos
+
+**España - Alta Apertura (N=894):**
+> "Me fascina Velázquez y su técnica del sfumato. Estoy escribiendo un ensayo conectando su realismo con la filosofía de Ortega y Gasset sobre la perspectiva."
+
+**USA - Alta Apertura (N=711):**  
+> "I'm exploring Jackson Pollock's abstract expressionism for my thesis. I'm trying to connect his technique with Dewey's pragmatist philosophy."
+
+**Diferencias culturales identificadas:**
+- **Referencias específicas:** Arte español vs americano
+- **Vocabulario cultural:** Terminología propia de cada cultura
+- **Conexiones conceptuales:** Filosofía española vs americana
+
+### Casos Bilingües - Expresión según Idioma
+
+**Bilingüe en Español:**
+> "Me apasiona la literatura de realismo mágico. García Márquez logra mezclar lo fantástico con lo cotidiano de una manera que desafía nuestra percepción de la realidad."
+
+**Mismo bilingüe en Inglés:**
+> "I'm fascinated by magical realism literature. García Márquez manages to blend the fantastic with the everyday in ways that challenge our perception of reality."
+
+**Hallazgo:** r = .72 correlación cross-language - expresión equivalente
+
+### ⚠️ Casos Población Trabajadora - Problemática Educativa
+
+**Universitario - Ítem #44 válido:**
+> "Estoy educado en arte, música y literatura. Prefiero Brahms sobre música popular y leo ensayos de Benjamin sobre estética."
+
+**Trabajador - Ítem #44 problemático (α = .69, r = .52):**
+> "Me gusta la música y las películas. Veo documentales de historia y disfruto cuando aprendo cosas nuevas."
+
+**Adaptación necesaria:**
+- "educado en arte" → "le gusta la música"  
+- Vocabulario élitista → Lenguaje accesible
+- Referencias cultas → Intereses cotidianos
+
 ## Correlaciones con Rendimiento Académico
 
 ### Según Evidencia del Estudio BIG5-CHAT
