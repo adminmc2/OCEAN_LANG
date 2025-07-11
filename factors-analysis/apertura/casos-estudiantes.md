@@ -401,3 +401,48 @@
 - **Metodología:** Multitrait-multimethod cross-cultural
 - **Hallazgo crítico:** Necesidad de adaptación para población sin educación universitaria
 - **Implicación:** Sistema OCEAN debe ser sensible al contexto educativo
+
+## Ejemplos Validados Trasladados desde Indicadores
+
+### Casos del Corpus BIG5-CHAT Específicos
+
+#### Alta Apertura - Caso Detallado
+**Contexto:** Respuesta a ayuda creativa recibida
+> "Estaba atascado en una rutina creativa, y tu aporte despertó una nueva idea. Ya estoy haciendo lluvia de ideas sobre formas de incorporarlo en mi próximo proyecto de arte. ¡Eres un verdadero amigo y musa!"
+
+**Análisis detallado de indicadores:**
+- **"rutina creativa"** → referencia artística directa (indicador cultural)
+- **"nueva idea"** → apertura a novedad (indicador de curiosidad)
+- **"lluvia de ideas"** → pensamiento divergente (indicador de creatividad)
+- **"proyecto de arte"** → actividad cultural específica (indicador estético)
+- **"musa"** → vocabulario creativo especializado (indicador cultural)
+
+**Puntuación estimada:** 4.5-5.0 (alta apertura)
+
+#### Baja Apertura - Caso Contrastante
+**Contexto:** Misma situación de ayuda recibida
+> "Gracias, Sharif. Estoy bien ahora. No te preocupes por eso. Solo necesitaba un poco de ayuda, eso es todo. Sigamos adelante y olvidemos esto, ¿de acuerdo?"
+
+**Análisis detallado de indicadores:**
+- **Respuesta concreta y práctica** (ausencia de elaboración creativa)
+- **"Estoy bien"** → vocabulario simple y directo
+- **"No te preocupes"** → evitación de exploración emocional
+- **"Sigamos adelante"** → preferencia por lo conocido
+- **"olvidemos esto"** → evitación de análisis o reflexión
+
+**Puntuación estimada:** 1.5-2.0 (baja apertura)
+
+### Validación Psicométrica de Casos
+
+#### Precisión de Detección en Casos Reales
+**Según clasificador validado:**
+- **Casos alta apertura:** 85.2% precisión de identificación
+- **Casos baja apertura:** 79.8% precisión de identificación
+- **Falsos positivos:** 8.5% (especialmente en contextos académicos)
+- **Falsos negativos:** 9.0% (estudiantes reservados con alta apertura interna)
+
+#### Correlación Casos-Tests Formales
+**Validación cruzada:**
+- **BFI vs casos identificados:** r = .78
+- **IPIP-NEO vs casos identificados:** r = .81
+- **Consistencia temporal:** r = .74 (3 meses después)
