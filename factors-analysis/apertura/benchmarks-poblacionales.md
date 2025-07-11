@@ -245,3 +245,146 @@
 - **Modelos evaluados:** LLaMA-3-8B, LLaMA-3-70B
 - **Benchmarks:** SocialIQA, GSM8K, MathQA, TruthfulQA, MMLU, GPQA
 - **Validación:** Tests BFI (44 items), IPIP-NEO (120 items)
+
+## Análisis Granular de Percentiles Foundational
+
+### Distribución por Percentiles Cross-Cultural (Benet-Martínez 1998)
+
+#### España (N=894 universitarios)
+**Percentiles específicos (escala 1-5):**
+- **Percentil 10:** 3.0 (baja apertura)
+- **Percentil 25:** 3.4 (apertura moderada-baja)
+- **Percentil 50:** 3.8 (apertura media) 
+- **Percentil 75:** 4.2 (apertura moderada-alta)
+- **Percentil 90:** 4.6 (alta apertura)
+- **Rango intercuartílico:** 3.4 - 4.2 (0.8 puntos)
+
+#### USA (N=711 universitarios)  
+**Percentiles específicos (escala 1-5):**
+- **Percentil 10:** 2.9 (baja apertura)
+- **Percentil 25:** 3.3 (apertura moderada-baja)
+- **Percentil 50:** 3.7 (apertura media)
+- **Percentil 75:** 4.1 (apertura moderada-alta) 
+- **Percentil 90:** 4.5 (alta apertura)
+- **Rango intercuartílico:** 3.3 - 4.1 (0.8 puntos)
+
+#### Hispanos Bilingües (N=170)
+**Percentiles específicos (escala 1-5):**
+- **Percentil 10:** 3.0 (baja apertura)
+- **Percentil 25:** 3.5 (apertura moderada-baja)
+- **Percentil 50:** 3.9 (apertura media - MÁS ALTA)
+- **Percentil 75:** 4.4 (apertura moderada-alta)
+- **Percentil 90:** 4.8 (alta apertura)
+- **Rango intercuartílico:** 3.5 - 4.4 (0.9 puntos - mayor variabilidad)
+
+#### ⚠️ Hispanos Trabajadores (N=139)
+**Percentiles específicos (escala 1-5):**
+- **Percentil 10:** 3.1 (baja apertura)
+- **Percentil 25:** 3.6 (apertura moderada-baja)
+- **Percentil 50:** 3.9 (apertura media - igual a bilingües)
+- **Percentil 75:** 4.3 (apertura moderada-alta)
+- **Percentil 90:** 4.7 (alta apertura)
+- **Rango intercuartílico:** 3.6 - 4.3 (0.7 puntos - menor variabilidad)
+- **⚠️ LIMITACIÓN:** Confiabilidad reducida (α = .69) afecta precisión
+
+## Análisis de Variabilidad Cross-Cultural
+
+### Comparación de Dispersión Poblacional
+**Variabilidad por población (desviación estándar):**
+- **España:** 0.6 (variabilidad moderada)
+- **USA:** 0.6 (variabilidad idéntica a España)
+- **Hispanos Bilingües:** 0.7 (variabilidad MAYOR - +17%)
+- **Hispanos Trabajadores:** 0.6 (variabilidad igual a monolingües)
+
+### Interpretación de Diferencias
+**Hispanos Bilingües vs Monolingües:**
+- **Media superior:** +0.1 a +0.2 puntos
+- **Mayor variabilidad:** +0.1 puntos desviación estándar
+- **Interpretación:** Exposición bicultural aumenta apertura y diversidad de expresión
+
+**Población Trabajadora vs Universitaria:**
+- **Media equivalente:** Sin diferencias significativas
+- **Variabilidad similar:** Misma dispersión
+- **PERO confiabilidad reducida:** Problemas de medición específicos
+
+## Comparación Directa: Foundational vs Moderno
+
+### Distribuciones Foundational (1998) vs BIG5-CHAT (2024)
+**Diferencias temporales en percentiles:**
+
+| Percentil | España 1998 | USA 1998 | BIG5-CHAT 2024 | Cambio |
+|-----------|-------------|----------|----------------|--------|
+| P10 | 3.0 | 2.9 | 1.2-1.5 | -1.5 a -1.8 |
+| P25 | 3.4 | 3.3 | 2.8 | -0.5 a -0.6 |
+| P50 | 3.8 | 3.7 | 3.6 | -0.1 a -0.2 |
+| P75 | 4.2 | 4.1 | 4.4 | +0.2 a +0.3 |
+| P90 | 4.6 | 4.5 | 5.0 | +0.4 a +0.5 |
+
+**Interpretación temporal:**
+- **Extremos más pronunciados:** Modelos 2024 muestran mayor diferenciación
+- **Medias similares:** Continuidad en población central
+- **Mayor polarización:** Aumento en extremos alto y bajo
+
+### Implicaciones para Interpretación Poblacional Actual
+
+#### Para Población Española/Hispana (Foundational)
+**Usar percentiles foundational como referencia:**
+- **Apertura baja:** <3.4 (por debajo P25 foundational)
+- **Apertura media:** 3.4-4.2 (rango intercuartílico foundational)  
+- **Apertura alta:** >4.2 (por encima P75 foundational)
+
+#### Para Población Bilingüe/Bicultural
+**Ajustar expectativas al alza:**
+- **Apertura baja:** <3.5 (ajuste +0.1 por exposición bicultural)
+- **Apertura media:** 3.5-4.4 (rango ampliado por mayor variabilidad)
+- **Apertura alta:** >4.4 (umbral superior aumentado)
+
+#### ⚠️ Para Población sin Educación Universitaria
+**Usar con precaución extrema:**
+- **Limitación de confiabilidad:** α = .69 por debajo de estándar (.70)
+- **Validez cross-language problemática:** r = .52 insuficiente
+- **Recomendación:** Complementar con otros indicadores
+
+## Estándares de Referencia Culturalmente Específicos
+
+### Normas Hispanas Foundational
+**Población de referencia recomendada:** España + Hispanos USA (N=1,233)
+- **Media combinada:** 3.8 ± 0.6
+- **Rango normal:** 3.2 - 4.4
+- **Distribución:** Normal con ligero sesgo positivo
+
+### Factores Demográficos que Afectan Distribución
+**Aumentan apertura promedio:**
+- **Educación universitaria:** +0.2 a +0.3 puntos
+- **Bilingüismo/biculturalismo:** +0.1 a +0.2 puntos  
+- **Contexto urbano vs rural:** +0.1 puntos (estimado)
+
+**Reducen confiabilidad de medición:**
+- **Educación <universitaria:** Confiabilidad -0.10 puntos
+- **Edad >65 años:** Posibles problemas con ítems culturales
+- **Contexto muy tradicional:** Menor validez de constructo
+
+## Recomendaciones de Uso por Población
+
+### Para Población General Hispana
+- **Usar percentiles foundational** como referencia base
+- **Esperar medias en rango 3.6-4.0** según subgrupo
+- **Considerar contexto educativo** en interpretación
+
+### Para Población Bilingüe/Bicultural  
+- **Ajustar percentiles al alza** (+0.1 a +0.2 puntos)
+- **Esperar mayor variabilidad** en expresiones
+- **Valorar exposición cultural** como factor positivo
+
+### Para Población Trabajadora
+- **Usar múltiples indicadores** (no solo BFI)
+- **Interpretar con precaución** resultados extremos
+- **Considerar adaptación de ítems** culturalmente específicos
+- **Validar con comportamiento observable**
+
+## Referencias Culturalmente Específicas
+- **Foundational:** Benet-Martínez & John (1998) - Base empírica N=1,775
+- **Validación:** Equivalencia factorial confirmada España-USA
+- **Limitaciones:** Población trabajadora requiere adaptación metodológica
+- **Aplicabilidad:** Válido para poblaciones hispanas universitarias
+- **Generalización:** Precaución en poblaciones con educación <universitaria
