@@ -388,3 +388,45 @@
 - **Limitaciones:** Población trabajadora requiere adaptación metodológica
 - **Aplicabilidad:** Válido para poblaciones hispanas universitarias
 - **Generalización:** Precaución en poblaciones con educación <universitaria
+
+## Propiedades Psicométricas Detalladas Trasladadas
+
+### Análisis Factorial Confirmatorio Cross-Cultural
+
+#### Equivalencia Factorial España-USA
+**Metodología CFA (Análisis Factorial Confirmatorio):**
+- **Modelo 1:** Cinco factores no correlacionados
+- **Modelo 2:** Cinco factores correlacionados
+- **Evaluación:** Criterios múltiples de bondad de ajuste
+
+**Resultados para Apertura:**
+- **Equivalencia estructural:** Confirmada entre España y USA
+- **Invarianza métrica:** Establecida para población universitaria
+- **Limitación:** Población trabajadora muestra menor equivalencia
+
+### Validez Convergente Ampliada
+
+#### Comparación Cross-Factorial (Corregida por Atenuación)
+**Validez convergente por factor:**
+- **Extraversión:** r = .89 ("chistoso, a quien le gusta bromear")
+- **Amabilidad:** r = .83 ("de buen carácter")  
+- **Neuroticismo:** r = .83 ("se altera fácilmente")
+- **Responsabilidad:** r = .79 ("piensa antes de actuar")
+- **Apertura:** r = .66 ("poco convencional") - **QUINTA POSICIÓN**
+
+**Interpretación para Apertura:**
+- **Validez acceptable:** Por encima de .60
+- **Relativa dificultad:** Factor más complejo de capturar en español
+- **Especificidad cultural:** Conceptualización parcialmente divergente
+
+### Factores Demográficos Detallados que Afectan Medición
+
+**Aumentan precisión específicamente:**
+- **Contexto académico:** +8-12% precisión para apertura
+- **Referencias culturales:** +10-15% precisión cuando presentes
+- **Textos reflexivos:** +7-10% precisión en análisis profundos
+
+**Reducen precisión específicamente:**
+- **Comunicación técnica:** -8-12% precisión en jerga especializada
+- **Respuestas cortas:** -10-15% precisión por debajo 50 palabras
+- **Contexto laboral formal:** -6-9% precisión en comunicación corporativa
