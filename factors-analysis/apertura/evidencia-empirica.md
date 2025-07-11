@@ -302,3 +302,36 @@
 - **Continuidad temporal:** 26 años de evidencia empírica consistente
 - **Base poblacional:** N=1,775 (foundational) + N=619,000 (moderno)
 - **Status:** Factor válido cross-culturalmente con especificidades metodológicas documentadas
+
+## Validación Científica Integral Movida desde Indicadores
+
+### Metodología BIG5-CHAT (Li et al. 2024)
+- **Framework:** DExperts para generación controlada
+- **Entrenamiento:** Supervised Fine-Tuning (SFT) en LLaMA-3-8B
+- **Validación:** Tests BFI e IPIP-NEO
+- **Precisión:** 82.5% en clasificación automática de apertura
+
+### Propiedades Psicométricas Cross-Culturales Básicas
+
+**Confiabilidad Alpha por Población:**
+| Población | Alpha | N | Interpretación |
+|-----------|-------|---|----------------|
+| España | .79 | 894 | Confiabilidad alta |
+| USA | .81 | 711 | Confiabilidad alta |
+| Hispanos bilingües | .80 | 170 | Confiabilidad alta |
+| Hispanos trabajadores | .77 | 139 | Confiabilidad aceptable |
+
+**Medias Poblacionales (Escala 1-5):**
+| Población | Media | SD | Rango Cultural |
+|-----------|-------|----|----|
+| España | 3.8 | 0.6 | Alta apertura relativa |
+| USA | 3.7 | 0.6 | Alta apertura relativa |
+| Hispanos bilingües | 3.9 | 0.7 | Más alta del grupo |
+| Hispanos trabajadores | 3.9 | 0.6 | Consistente bilingües |
+
+### Convergencia con Marcadores Indígenas Ampliada
+**Correlación Spanish BFI con escalas indígenas españolas:**
+- **Correlación cruda:** r = .53
+- **Correlación corregida:** r = .66
+- **Interpretación:** Convergencia sustancial con conceptualizaciones españolas de apertura
+- **Marcador principal:** "poco convencional"
