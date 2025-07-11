@@ -304,3 +304,43 @@
 - **Status foundational:** Base científica sólida con limitaciones específicas identificadas
 - **Ranking de precisión:** Segunda posición entre factores OCEAN (distancia matriz 1.82)
 - **Recomendación:** Usar con precaución correlaciones con Extraversión hasta recalibración
+
+## Correlaciones Identificadas Trasladadas desde Indicadores
+
+### Correlaciones Problemáticas Específicas de Apertura
+
+#### Con Otros Factores OCEAN (Li et al. 2024)
+**Datos humanos reales vs Modelos:**
+
+| Factor | Humanos | SFT | DPO | Diferencia SFT | Problemática |
+|--------|---------|-----|-----|---------------|---------------|
+| **Extraversión** | r=+0.17 | r=+0.57 | r=+0.77 | **+0.40** | **SOBREESTIMACIÓN EXTREMA** |
+| **Responsabilidad** | r=+0.32 | r=+0.016 | r=+0.36 | **-0.30** | **SUBESTIMACIÓN SEVERA** |
+| **Amabilidad** | r=+0.26 | r=+0.37 | r=+0.26 | +0.11 | Moderada sobreestimación |
+| **Neuroticismo** | r=+0.36 | r=+0.011 | r=+0.36 | **-0.35** | **SUBESTIMACIÓN SEVERA** |
+
+### Interpretación de Problemáticas
+
+#### Sobreestimación Apertura-Extraversión
+**Hipótesis explicativas:**
+- **Confusión conceptual:** Dataset confunde sociabilidad con apertura intelectual
+- **Vocabulario compartido:** Palabras como "explorar", "nuevo", "experiencia"
+- **Sesgo en generación:** Modelos asocian creatividad con expresividad social
+
+#### Subestimación Apertura-Responsabilidad
+**Hipótesis explicativas:**
+- **Estereotipo cultural:** Creatividad vista como opuesta a organización
+- **Sesgo del dataset:** Personas organizadas expresan apertura de forma diferente
+- **Limitación del framework:** DExperts no captura apertura sistemática
+
+### Implicaciones para Análisis
+
+#### Precauciones Específicas
+- **No usar correlaciones para validación cruzada** entre Apertura y Extraversión
+- **Interpretar con cautela** relación Apertura-Responsabilidad
+- **Considerar análisis independiente** de cada factor
+
+#### Recomendaciones Metodológicas
+- **Validación múltiple:** Usar varios indicadores independientes
+- **Contexto específico:** Considerar tipo de apertura (intelectual vs social)
+- **Calibración cultural:** Ajustar según población específica
