@@ -1,11 +1,33 @@
-# Indicadores Validados de Responsabilidad (Conscientiousness)
+# Indicadores Validados - Responsabilidad (Conscientiousness)
 
-## Información del Factor
-- **Factor OCEAN:** Responsabilidad/Concienciación (Conscientiousness)
-- **Definición:** Disciplina, organización y orientación hacia objetivos
-- **Fuente de validación:** Li et al., Carnegie Mellon 2024 (BIG5-CHAT)
+## Información de Validación
+- **Estudio foundational:** Benet-Martínez & John 1998 (N=1,775)
+- **Estudio moderno:** Li et al., Carnegie Mellon 2024 (N=100,000)
 - **Base empírica:** N=100,000 diálogos + 850K posts Facebook
 - **Precisión de clasificación:** 80.0% (segunda mejor después de Amabilidad)
+
+## Ítems BFI Foundational Validados (Benet-Martínez 1998)
+
+### Ítems Directos (Alta Responsabilidad)
+1. **"Es minucioso en el trabajo"** (does a thorough job)
+2. **"Es un trabajador cumplidor, digno de confianza"** (reliable worker)
+3. **"Persevera hasta terminar el trabajo"** (perseveres until task is finished)
+4. **"Hace las cosas de manera eficiente"** (does things efficiently)
+5. **"Hace planes y los sigue cuidadosamente"** (makes plans and follows through)
+
+### Ítems Inversos (Baja Responsabilidad)
+6. **"Puede a veces ser algo descuidado"** - REVERSO (can be somewhat careless)
+7. **"Tiende a ser desorganizado"** - REVERSO (tends to be disorganized)
+8. **"Tiende a ser flojo, vago"** - REVERSO (tends to be lazy)
+9. **"Se distrae con facilidad"** - REVERSO (is easily distracted)
+
+### Validación Psicométrica Foundational
+- **España (N=894):** α = .77
+- **USA (N=711):** α = .82
+- **Hispanos bilingües (N=170):** α = .78, r = .74 cross-language
+- **Hispanos trabajadores (N=139):** α = .77
+- **Metodología:** Back-translation rigurosa (Brislin 1980)
+- **Validez convergente:** r = .79 con marcadores indígenas españoles
 
 ## Indicadores Lingüísticos Validados
 
@@ -169,8 +191,10 @@
 - **Validar con comportamiento:** Contrastar con acciones reportadas
 
 ## Referencias Metodológicas
-- Li, W., Liu, J., Liu, A., Zhou, X., Diab, M., & Sap, M. (2024). BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data. arXiv:2410.16491v1
-- Dataset BIG5-CHAT: 100,000 diálogos validados con responsabilidad
-- Framework DExperts: Generación controlada de personalidad
-- Validación psicométrica: BFI + IPIP-NEO con población universitaria
-- Correlaciones cognitivas: 8 benchmarks de razonamiento evaluados
+- **Foundational:** Benet-Martínez & John (1998). Journal of Personality and Social Psychology, 75(3), 729-750
+- **Moderno:** Li, W., Liu, J., Liu, A., Zhou, X., Diab, M., & Sap, M. (2024). BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data. arXiv:2410.16491v1
+- **Metodología traducción:** Back-translation rigurosa (Brislin 1980)
+- **Dataset BIG5-CHAT:** 100,000 diálogos validados con responsabilidad
+- **Framework DExperts:** Generación controlada de personalidad
+- **Validación psicométrica:** BFI + IPIP-NEO con población universitaria
+- **Correlaciones cognitivas:** 8 benchmarks de razonamiento evaluados
