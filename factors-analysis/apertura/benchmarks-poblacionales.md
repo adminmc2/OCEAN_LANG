@@ -6,6 +6,45 @@
 - **Benchmarks:** BFI, IPIP-NEO + 8 tareas de razonamiento cognitivo
 - **Metodología:** SFT y DPO comparado con prompting baseline
 
+## Base Foundational Poblacional (Benet-Martínez 1998)
+
+### Distribuciones Cross-Culturales Validadas
+**España (N=894 universitarios):**
+- **Media:** 3.8 ± 0.6
+- **Confiabilidad:** α = .79
+- **Percentil 50:** 3.8 (población española)
+- **Rango normal:** 3.2 - 4.4
+
+**USA (N=711 universitarios):**
+- **Media:** 3.7 ± 0.6  
+- **Confiabilidad:** α = .81
+- **Percentil 50:** 3.7 (población americana)
+- **Rango normal:** 3.1 - 4.3
+
+**Hispanos Bilingües (N=170):**
+- **Media:** 3.9 ± 0.7
+- **Confiabilidad:** α = .80
+- **Correlación cross-language:** r = .72
+- **Percentil 60:** Más alta que monolingües
+
+**⚠️ Hispanos Trabajadores (N=139):**
+- **Media:** 3.9 ± 0.6
+- **Confiabilidad:** α = .69 (REDUCIDA)
+- **Correlación cross-language:** r = .52 (PROBLEMÁTICA)
+- **Limitación:** Ítems BFI menos válidos
+
+### Benchmarks Cross-Culturales Foundational
+**Equivalencia España-USA:**
+- **Sin diferencias significativas** en medias
+- **Estructura factorial idéntica** 
+- **Confiabilidades equivalentes**
+- **Validez convergente confirmada**
+
+**Población Trabajadora vs Universitaria:**
+- **Mismas medias** (3.9 vs 3.8-3.7)
+- **Confiabilidad REDUCIDA** (.69 vs .79-.81)
+- **Validez cross-language PROBLEMÁTICA** (.52 vs .72)
+
 ## Distribución Poblacional
 
 ### Tests de Personalidad (Escala 1-5)
