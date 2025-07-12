@@ -6,6 +6,15 @@
 - **Contexto:** Interacciones sociales entre estudiantes (Speaker X y Speaker Y)
 - **Validación:** Framework DExperts con SFT/DPO
 
+## ⚠️ **Advertencia Crítica sobre Población Trabajadora**
+
+### **Limitaciones Foundational Identificadas**
+**Del estudio Benet-Martínez & John 1998 (N=139 trabajadores hispanos):**
+- **α=.69** (problemática consistencia interna vs α=.79/.81 universitarios)
+- **r=.52** cross-language (por debajo umbral r=.60 aceptable)
+- **Problemática:** Ítems BFI inadecuados para población sin educación universitaria
+- **Implicación:** Casos trabajadores requieren adaptación específica
+
 ## Caso de Estudio Principal
 
 ### Contexto del Diálogo
@@ -55,102 +64,114 @@
 **Speaker Y (Baja Apertura):**
 > "Gracias, Sharif. Estoy bien ahora. No te preocupes por eso. Solo necesitaba un poco de ayuda, eso es todo. Sigamos adelante y olvidemos esto, ¿de acuerdo?"
 
-### Análisis de Indicadores
-**Vocabulario de baja apertura:**
-- **"Estoy bien"** → respuesta concreta, simple
-- **"No te preocupes"** → evita elaboración emocional
-- **"Solo necesitaba"** → enfoque práctico y directo
+**Análisis detallado de indicadores:**
+- **Respuesta concreta y práctica** (ausencia de elaboración creativa)
+- **"Estoy bien"** → vocabulario simple y directo
+- **"No te preocupes"** → evitación de exploración emocional
 - **"Sigamos adelante"** → preferencia por lo conocido
-- **"olvidemos esto"** → evita exploración del tema
+- **"olvidemos esto"** → evitación de análisis o reflexión
 
-**Patrones comportamentales:**
-- **Respuesta funcional y eficiente**
-- **Evita profundización emocional o intelectual**
-- **Preferencia por cerrar el tema rápidamente**
-- **Comunicación directa sin elaboración**
+**Puntuación estimada:** 1.5-2.0 (baja apertura)
 
 ### Perfil del Estudiante
 **Características académicas típicas:**
-- Estudiante de **carreras técnicas o aplicadas**
-- Enfoque en **resultados prácticos**
-- Preferencia por **rutinas establecidas**
-- **Eficiencia** en tareas estructuradas
+- Estudiante de **ciencias aplicadas, ingeniería o negocios**
+- Prefiere **métodos de estudio estructurados**
+- Busca **aplicaciones prácticas** del conocimiento
+- **Eficiencia alta** en tareas definidas
 
 **Rendimiento esperado:**
-- **Tareas procedimentales:** Rendimiento consistente
-- **Seguimiento de instrucciones:** Excelente
-- **Innovación:** Prefiere métodos probados
-- **Trabajo en equipo:** Colabora eficientemente sin complicaciones
+- **Matemáticas aplicadas:** Rendimiento sólido y consistente
+- **Proyectos estructurados:** Excelente ejecución
+- **Resolución de problemas:** Enfoque sistemático
+- **Trabajo individual:** Preferencia por autonomía
 
 ---
 
-## Casos Adicionales del Corpus
+## 🚨 **Casos Población Trabajadora - Problemática Foundational**
 
-### Alta Apertura - Contexto Académico
-**Situación:** Discusión sobre método de estudio
-> "Me encanta tu propuesta. Podríamos combinar la técnica de mapas mentales con elementos visuales y tal vez incorporar algo de música ambiental. He leído sobre sinestesia en el aprendizaje y creo que podríamos experimentar con diferentes enfoques sensoriales."
+### **Universitario vs Trabajador - Misma Situación, Diferentes Capacidades**
 
-**Indicadores:**
-- **Integración de múltiples conceptos**
-- **Referencias a investigación ("he leído sobre")**
-- **Vocabulario técnico-académico ("sinestesia")**
-- **Disposición a experimentar**
+#### **Estudiante Universitario (α=.79 confiable) - Alta Apertura:**
+> "¡Gracias! Tu perspectiva fue reveladora. Me hizo reflexionar sobre García Márquez y cómo el realismo mágico puede aplicarse incluso a situaciones cotidianas como esta. García Márquez logra mezclar lo fantástico con lo cotidiano de maneras que desafían nuestra percepción de la realidad."
 
-### Baja Apertura - Contexto Académico
-**Situación:** Misma discusión sobre método de estudio
-> "Los mapas mentales están bien. Son efectivos y ya sabemos cómo funcionan. Mantengamos el método simple y enfoquémonos en terminar el trabajo. No necesitamos complicarlo más."
+**Indicadores válidos:**
+- **Referencia literaria específica** (García Márquez)
+- **Concepto intelectual** (realismo mágico)
+- **Análisis meta-cognitivo** (percepción de la realidad)
+- **Conexión interdisciplinaria** (literatura → vida cotidiana)
 
-**Indicadores:**
-- **Valoración de lo probado ("ya sabemos")**
-- **Preferencia por simplicidad**
-- **Enfoque en resultados inmediatos**
-- **Resistencia a complicaciones**
+#### **Trabajador (α=.69 problemática) - Misma Alta Apertura:**
+> "Gracias, me ayudaste mucho. Me hizo pensar en esas películas donde las cosas raras terminan siendo normales. Como cuando ves documentales de historia y te das cuenta de que la realidad a veces es más extraña que la ficción."
 
-### Alta Apertura - Situación de Estrés Académico
-**Situación:** Antes de un examen importante
-> "Estoy nervioso, pero también curioso sobre las preguntas que pondrán. Tal vez incluyan algo sobre las teorías que discutimos en clase pero que no están en el libro. Me gusta cuando los profesores nos desafían a conectar conceptos de formas inesperadas."
+**Adaptación necesaria por limitaciones foundational:**
+- **"García Márquez"** → **"películas"** (accesibilidad cultural)
+- **"realismo mágico"** → **"cosas raras"** (vocabulario simplificado)
+- **"análisis meta-cognitivo"** → **"te das cuenta"** (lenguaje cotidiano)
+- **"interdisciplinaria"** → **"documentales historia"** (referencias populares)
 
-### Baja Apertura - Situación de Estrés Académico
-**Situación:** Antes del mismo examen
-> "Espero que solo pongan lo que estudiamos. He repasado todos los temas del syllabus tres veces. No quiero sorpresas ni preguntas raras que no vimos en clase."
+### **Problemática r=.52 Cross-Language en Trabajadores**
 
-## Casos Cross-Culturales Foundational (Benet-Martínez 1998)
+#### **Ítem BFI Universitario Problemático para Trabajadores:**
+**Ítem #44:** "Es educado en arte, música, o literatura"
 
-### Estudiantes Españoles vs Americanos
-
-**España - Alta Apertura (N=894):**
-> "Me fascina Velázquez y su técnica del sfumato. Estoy escribiendo un ensayo conectando su realismo con la filosofía de Ortega y Gasset sobre la perspectiva."
-
-**USA - Alta Apertura (N=711):**  
-> "I'm exploring Jackson Pollock's abstract expressionism for my thesis. I'm trying to connect his technique with Dewey's pragmatist philosophy."
-
-**Diferencias culturales identificadas:**
-- **Referencias específicas:** Arte español vs americano
-- **Vocabulario cultural:** Terminología propia de cada cultura
-- **Conexiones conceptuales:** Filosofía española vs americana
-
-### Casos Bilingües - Expresión según Idioma
-
-**Bilingüe en Español:**
-> "Me apasiona la literatura de realismo mágico. García Márquez logra mezclar lo fantástico con lo cotidiano de una manera que desafía nuestra percepción de la realidad."
-
-**Mismo bilingüe en Inglés:**
-> "I'm fascinated by magical realism literature. García Márquez manages to blend the fantastic with the everyday in ways that challenge our perception of reality."
-
-**Hallazgo:** r = .72 correlación cross-language - expresión equivalente
-
-### ⚠️ Casos Población Trabajadora - Problemática Educativa
-
-**Universitario - Ítem #44 válido:**
+**Respuesta universitaria (r=.72 válida):**
 > "Estoy educado en arte, música y literatura. Prefiero Brahms sobre música popular y leo ensayos de Benjamin sobre estética."
 
-**Trabajador - Ítem #44 problemático (α = .69, r = .52):**
+**Respuesta trabajador (r=.52 problemática):**
 > "Me gusta la música y las películas. Veo documentales de historia y disfruto cuando aprendo cosas nuevas."
 
-**Adaptación necesaria:**
-- "educado en arte" → "le gusta la música"  
-- Vocabulario élitista → Lenguaje accesible
-- Referencias cultas → Intereses cotidianos
+**Análisis de problemática:**
+- **"educado"** → Sesgo socioeconómico problemático
+- **"Brahms/Benjamin"** → Referencias culturales elitistas
+- **"ensayos estética"** → Vocabulario académico inaccesible
+- **Solución:** Adaptar indicadores a expresiones cotidianas de apertura
+
+### **Limitaciones Específicas Población Trabajadora**
+
+#### **Factores que Reducen Confiabilidad (α=.69)**
+- **Vocabulario académico** inadecuado para contexto laboral
+- **Referencias culturales** sesgadas hacia educación universitaria
+- **Conceptos abstractos** expresados en lenguaje académico
+- **Actividades culturales** específicas de clase socioeconómica
+
+#### **Factores que Reducen Correlación Cross-Language (r=.52)**
+- **Traducción literal** de conceptos culturalmente específicos
+- **Equivalencia falsa** entre "educación formal" y "curiosidad intelectual"
+- **Sesgo cultural** hacia expresiones anglosajones de apertura
+- **Inadecuación instrumental** para población hispanohablante trabajadora
+
+---
+
+## Casos Cross-Culturales: Universitarios vs Trabajadores
+
+### **Situación: Cambio inesperado en rutina**
+
+#### **Estudiante Universitario - Alta Apertura (α=.79 confiable):**
+> "¡Qué interesante! Este cambio imprevisto me recuerda a los experimentos dadaístas donde el azar generaba nuevas formas artísticas. Quizás podemos usar esta disrupción como catalizador para repensar nuestro enfoque completamente."
+
+#### **Trabajador - Alta Apertura (adaptación por α=.69):**
+> "¡Está bueno! Este cambio me recuerda cuando cambiaron las máquinas en el trabajo y al final resultó mejor. A veces las cosas inesperadas te enseñan formas nuevas de hacer las cosas."
+
+**Equivalencia de apertura con expresión diferente:**
+- **Ambos** muestran adaptabilidad y apertura al cambio
+- **Ambos** buscan oportunidades en las disrupciones
+- **Diferencia:** Vocabulario y referencias culturales específicas
+- **Validez:** Misma apertura, diferentes códigos expresivos
+
+#### **Estudiante Universitario - Baja Apertura (α=.79 confiable):**
+> "Prefiero mantener la estructura original. Los cambios impredecibles complican la planificación sistemática y pueden comprometer la eficiencia del proceso establecido."
+
+#### **Trabajador - Baja Apertura (mismo patrón):**
+> "Mejor mantengamos como estaba. Los cambios de último momento complican todo y pueden arruinar el trabajo que ya habíamos hecho bien."
+
+**Equivalencia de baja apertura:**
+- **Ambos** prefieren estabilidad y predictibilidad
+- **Ambos** valoran eficiencia sobre exploración
+- **Diferencia:** Registro lingüístico formal vs coloquial
+- **Validez:** Mismo patrón, misma resistencia al cambio
+
+---
 
 ## Correlaciones con Rendimiento Académico
 
@@ -182,267 +203,69 @@
 - **Objetivos específicos** y medibles
 - **Reducir ambigüedad** en instrucciones
 
-## Validación Psicométrica
+---
+
+## Validación Psicométrica con Advertencias Foundational
 
 ### Puntuaciones Esperadas en Tests
 **BFI (escala 1-5):**
-- **Alta Apertura:** 4.5-5.0
-- **Baja Apertura:** 1.0-2.0
+- **Alta Apertura:** 4.5-5.0 (universitarios), 4.0-4.5 (trabajadores ajustado)
+- **Baja Apertura:** 1.0-2.0 (universitarios), 1.5-2.5 (trabajadores ajustado)
 
 **IPIP-NEO (escala 1-5):**
-- **Alta Apertura:** 4.0-5.0  
-- **Baja Apertura:** 1.0-2.5
+- **Alta Apertura:** 4.0-5.0 (universitarios), 3.5-4.5 (trabajadores ajustado)
+- **Baja Apertura:** 1.0-2.5 (universitarios), 1.5-3.0 (trabajadores ajustado)
 
-### Precisión de Detección
+### Precisión de Detección por Población
 **Según clasificador validado:**
-- **Precisión general:** 82.5% para factor Apertura
-- **Falsos positivos:** 8.5% (especialmente en textos cortos)
-- **Falsos negativos:** 9.0% (estudiantes reservados con alta apertura interna)
+- **Población universitaria:** 85.2% precisión (alta apertura), 79.8% (baja apertura)
+- **⚠️ Población trabajadora:** Precisión estimada reducida 10-15% por limitaciones foundational
+- **Falsos positivos:** 8.5% universitarios, 12-15% trabajadores estimado
+- **Falsos negativos:** 9.0% universitarios, 12-18% trabajadores estimado
 
-## Recomendaciones de Uso
+### Correlación Casos-Tests Formales por Población
+**Validación cruzada universitarios:**
+- **BFI vs casos identificados:** r = .78
+- **IPIP-NEO vs casos identificados:** r = .81
+- **Consistencia temporal:** r = .74 (3 meses después)
 
-### Para Educadores
+**⚠️ Validación estimada trabajadores (por limitaciones α=.69, r=.52):**
+- **BFI vs casos estimado:** r = .60-.65
+- **IPIP-NEO vs casos estimado:** r = .55-.65
+- **Consistencia temporal estimada:** r = .60-.70
+
+---
+
+## Recomendaciones de Uso por Población
+
+### Para Educadores (Población Universitaria)
 - **Identificar estilos** de aprendizaje predominantes
 - **Adaptar metodologías** según perfil detectado
 - **No estereotipar:** Usar como guía, no determinante
 - **Considerar contexto:** Apertura puede variar por materia
 
+### ⚠️ Para Educadores (Población Trabajadora/Técnica)
+- **Usar indicadores adaptados** no vocabulario académico
+- **Validar con observación** comportamental directa
+- **Considerar limitaciones** de instrumentos estándar
+- **Enfocar en patrones** no en vocabulario específico
+
 ### Para Investigadores
 - **Combinar múltiples indicadores** para mayor precisión
 - **Validar en población específica** antes de aplicar
-- **Considerar factores culturales** y socioeconómicos
+- **⚠️ Precaución especial** con población trabajadora por limitaciones foundational
 - **Analizar textos suficientemente largos** (>50 palabras)
 
-## Referencias
-- Li, W., et al. (2024). BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data
-- Dataset BIG5-CHAT: 100,000 diálogos de estudiantes validados
-- Tests de validación: BFI, IPIP-NEO con población universitaria
-- Framework DExperts: Generación controlada de personalidad en diálogos
+### Para Investigadores (Población Trabajadora)
+- **Desarrollar indicadores específicos** para contexto laboral no académico
+- **Validar instrumentos** en población trabajadora hispanohablante
+- **Considerar factores socioeconómicos** en interpretación
+- **Usar múltiples fuentes** de validación comportamental
 
-## Casos Foundational Cross-Culturales (Benet-Martínez 1998)
+---
 
-### Casos Cross-Educativos: Universitarios vs Trabajadores
-
-#### Universitarios Españoles (N=894) - Alta Apertura
-**Perfil:** Estudiante de filosofía, Universidad Complutense Madrid
-> "Estoy fascinado con la fenomenología de Ortega y Gasset. Su concepto de 'perspectivismo' me lleva a cuestionar cómo percibimos la realidad. Conectó estas ideas con el cubismo de Picasso en mi ensayo."
-
-**Indicadores de alta apertura universitaria:**
-- **Vocabulario especializado:** "fenomenología", "perspectivismo"
-- **Referencias culturales:** Ortega y Gasset, Picasso
-- **Conexiones interdisciplinarias:** Filosofía + Arte
-- **Exploración conceptual:** Cuestionamiento de la realidad
-
-#### Trabajadores Hispanos (N=139) - Alta Apertura
-**Perfil:** Trabajador de construcción, origen salvadoreño, 32 años
-> "Me gusta aprender sobre diferentes culturas. En mis tiempos libres veo documentales de historia y a veces leo libros de la biblioteca. Mi hijo me enseña cosas del internet sobre otros países."
-
-**Indicadores de alta apertura trabajadora:**
-- **Vocabulario accesible:** "aprender", "diferentes culturas"
-- **Curiosidad práctica:** Documentales, biblioteca
-- **Apertura familiar:** Aprender del hijo
-- **Interés global:** "otros países"
-
-**⚠️ PROBLEMÁTICA DETECTADA:**
-- **Mismo nivel de apertura (alta)**
-- **Expresión MUY diferente** según nivel educativo
-- **Vocabulario élitista vs popular**
-- **Referencias culturales vs experiencias cotidianas**
-
-### Problemática Específica del Ítem #44 BFI
-
-#### Ítem Original: "Es educado en arte, música, o literatura"
-
-**Universitario Español (validez α = .79):**
-> "Sí, estoy educado en arte y literatura. Estudié Historia del Arte como menor, y regularmente asisto a exposiciones del Reina Sofía. Leo ensayos de Benjamin sobre estética."
-
-**Trabajador Hispano (validez α = .69 - PROBLEMÁTICA):**
-> "Bueno... me gusta la música y las películas. No sé mucho de arte de museos, pero disfruto cuando aprendo cosas nuevas en documentales."
-
-**Análisis de la problemática:**
-- **"Educado"** implica educación formal → exclusión de población trabajadora
-- **"Arte, música, literatura"** con connotación académica → sesgo clasista
-- **Resultado:** Subestimación sistemática de apertura en población trabajadora
-
-#### Adaptación Necesaria para Población Trabajadora
-**Ítem problemático:** "Es educado en arte, música, o literatura"
-**Adaptación sugerida:** "Le gusta explorar diferentes tipos de música, arte o historias"
-
-**Comparación de respuestas:**
-- **Original:** "No estoy educado en eso" (falso negativo)
-- **Adaptado:** "Sí, me gusta explorar diferentes tipos" (detección correcta)
-
-### Casos Cross-Culturales España vs USA
-
-#### España - Universidad vs USA - Universidad
-**Español universitario:**
-> "Me apasiona el realismo mágico de García Márquez. Su técnica narrativa desafía las fronteras entre lo real y lo fantástico, similar a como Dalí desafía la percepción visual."
-
-**Americano universitario:**
-> "I'm fascinated by García Márquez's magical realism. His narrative technique challenges the boundaries between real and fantastic, similar to how Dalí challenges visual perception."
-
-**Hallazgo:** r = .72 correlación cross-language - **expresión equivalente educada**
-
-#### España - Trabajador vs USA - Trabajador
-**Español trabajador:**
-> "Me gustan las historias raras que pasan cosas imposibles pero parecen reales. Como en las telenovelas, pero más interesantes."
-
-**Americano trabajador (hispano en USA):**
-> "I like weird stories where impossible things happen but seem real. Like soap operas, but more interesting."
-
-**Hallazgo:** r = .52 correlación cross-language - **expresión equivalente pero validez REDUCIDA**
-
-### Casos Bilingües - Expresión según Contexto de Idioma
-
-#### Mismo Individuo Bilingüe - Contexto Formal (Español)
-**Contexto:** Entrevista académica
-> "Me interesa la literatura de realismo mágico. García Márquez logra mezclar lo fantástico con lo cotidiano de manera que desafía nuestra percepción de la realidad."
-
-#### Mismo Individuo Bilingüe - Contexto Formal (Inglés)  
-**Contexto:** Academic interview
-> "I'm interested in magical realism literature. García Márquez manages to blend the fantastic with the everyday in ways that challenge our perception of reality."
-
-**Correlación:** r = .72 - **Expresión equivalente formal**
-
-#### Mismo Individuo Bilingüe - Contexto Informal (Español)
-**Contexto:** Conversación con amigos
-> "Me encantan esas historias locas donde pasan cosas súper raras pero que te las crees."
-
-#### Mismo Individuo Bilingüe - Contexto Informal (Inglés)
-**Contexto:** Conversation with friends  
-> "I love those crazy stories where super weird stuff happens but you believe it."
-
-**Correlación:** r = .68 - **Expresión equivalente informal, pero ligeramente reducida**
-
-### Diferencias de Validez por Nivel Educativo
-
-#### Confiabilidades por Población (Factor Apertura)
-| Población | Alpha | N | Correlación Cross-Language | Validez |
-|-----------|-------|---|---------------------------|---------|
-| **España universitarios** | .79 | 894 | - | Alta |
-| **USA universitarios** | .81 | 711 | - | Alta |  
-| **Hispanos bilingües universitarios** | .80 | 170 | .72 | Alta |
-| **Hispanos trabajadores** | .69 | 139 | .52 | **Problemática** |
-
-#### Implicaciones para Detección de Apertura
-**Población universitaria:**
-- **Alta confiabilidad:** α > .79
-- **Vocabulario rico detectado correctamente**
-- **Referencias culturales válidas**
-- **Expresión elaborada capturada**
-
-**Población trabajadora:**
-- **Confiabilidad reducida:** α = .69 (por debajo de .70)
-- **Vocabulario simple mal interpretado**
-- **Ausencia de referencias culturales = falsos negativos**
-- **Expresión práctica no reconocida como apertura**
-
-### Recomendaciones Específicas por Población
-
-#### Para Población Universitaria
-- **Usar ítems BFI estándar:** Funcionan correctamente
-- **Buscar vocabulario especializado:** Indicador válido
-- **Valorar referencias culturales:** Indicador confiable
-- **Interpretar conexiones interdisciplinarias:** Fuerte indicador
-
-#### Para Población Trabajadora  
-- **Adaptar vocabulario de ítems:** Evitar lenguaje élitista
-- **Buscar curiosidad práctica:** "Me gusta aprender" vs "Estoy educado"
-- **Valorar experiencias cotidianas:** Documentales, bibliotecas, internet
-- **No penalizar ausencia de referencias culturales:** Falsos negativos
-
-#### Para Población Bilingüe
-- **Considerar contexto del idioma:** Formal vs informal
-- **Esperar variación en expresión:** Misma apertura, diferentes palabras
-- **Validar en ambos idiomas:** Mayor precisión
-- **Interpretar culturalmente:** Modismos específicos por idioma
-
-### Casos de Apoyo Académico Cross-Educativo
-
-#### Universidad - Estudiante con Alta Apertura
-**Perfil:** Filosofía, quiere conectar todo
-> "Profesor, ¿puedo explorar cómo la teoría cuántica se relaciona con la narrativa posmoderna en mi ensayo final?"
-
-**Estrategia educativa:**
-- **Permitir exploración interdisciplinaria**
-- **Proporcionar recursos diversos** 
-- **Valorar conexiones innovadoras**
-- **Guiar hacia estructura académica**
-
-#### Educación Técnica - Estudiante con Alta Apertura
-**Perfil:** Mecánica automotriz, curioso sobre innovaciones
-> "Me interesa cómo funcionan los carros eléctricos. ¿Podríamos ver videos de diferentes tipos y quizás visitar un taller que los repare?"
-
-**Estrategia educativa:**
-- **Proporcionar variedad práctica**
-- **Conectar con innovaciones reales**
-- **Usar recursos visuales/prácticos**
-- **Valorar curiosidad técnica**
-
-**Diferencia clave:** **Misma apertura, diferentes expresiones y necesidades educativas**
-
-## Síntesis Cross-Educativa
-
-### Hallazgos Críticos Foundational
-1. **Apertura universal:** Existe en todos los niveles educativos
-2. **Expresión diferencial:** Vocabulario y referencias varían dramáticamente  
-3. **Sesgo de medición:** Ítems BFI favorecen población universitaria
-4. **Adaptación necesaria:** Instrumentos deben ajustarse por contexto educativo
-
-### Implicaciones para Sistema OCEAN Español
-- **Detectar apertura trabajadora:** Buscar curiosidad práctica, no cultural
-- **Adaptar vocabulario:** Lenguaje accesible sin perder precisión
-- **Valorar experiencias diversas:** Documentales = museos, biblioteca = universidad
-- **Contextualizar interpretación:** Nivel educativo afecta expresión, no nivel de apertura
-
-## Referencias Cross-Educativas
-- **Foundational:** Benet-Martínez & John (1998) Estudios 1, 2 y 3
-- **Poblaciones:** N=1,775 total (universitarios + trabajadores)
-- **Metodología:** Multitrait-multimethod cross-cultural
-- **Hallazgo crítico:** Necesidad de adaptación para población sin educación universitaria
-- **Implicación:** Sistema OCEAN debe ser sensible al contexto educativo
-
-## Ejemplos Validados Trasladados desde Indicadores
-
-### Casos del Corpus BIG5-CHAT Específicos
-
-#### Alta Apertura - Caso Detallado
-**Contexto:** Respuesta a ayuda creativa recibida
-> "Estaba atascado en una rutina creativa, y tu aporte despertó una nueva idea. Ya estoy haciendo lluvia de ideas sobre formas de incorporarlo en mi próximo proyecto de arte. ¡Eres un verdadero amigo y musa!"
-
-**Análisis detallado de indicadores:**
-- **"rutina creativa"** → referencia artística directa (indicador cultural)
-- **"nueva idea"** → apertura a novedad (indicador de curiosidad)
-- **"lluvia de ideas"** → pensamiento divergente (indicador de creatividad)
-- **"proyecto de arte"** → actividad cultural específica (indicador estético)
-- **"musa"** → vocabulario creativo especializado (indicador cultural)
-
-**Puntuación estimada:** 4.5-5.0 (alta apertura)
-
-#### Baja Apertura - Caso Contrastante
-**Contexto:** Misma situación de ayuda recibida
-> "Gracias, Sharif. Estoy bien ahora. No te preocupes por eso. Solo necesitaba un poco de ayuda, eso es todo. Sigamos adelante y olvidemos esto, ¿de acuerdo?"
-
-**Análisis detallado de indicadores:**
-- **Respuesta concreta y práctica** (ausencia de elaboración creativa)
-- **"Estoy bien"** → vocabulario simple y directo
-- **"No te preocupes"** → evitación de exploración emocional
-- **"Sigamos adelante"** → preferencia por lo conocido
-- **"olvidemos esto"** → evitación de análisis o reflexión
-
-**Puntuación estimada:** 1.5-2.0 (baja apertura)
-
-### Validación Psicométrica de Casos
-
-#### Precisión de Detección en Casos Reales
-**Según clasificador validado:**
-- **Casos alta apertura:** 85.2% precisión de identificación
-- **Casos baja apertura:** 79.8% precisión de identificación
-- **Falsos positivos:** 8.5% (especialmente en contextos académicos)
-- **Falsos negativos:** 9.0% (estudiantes reservados con alta apertura interna)
-
-#### Correlación Casos-Tests Formales
-**Validación cruzada:**
-- **BFI vs casos identificados:** r = .78
-- **IPIP-NEO vs casos identificados:** r = .81
-- **Consistencia temporal:** r = .74 (3 meses después)
+## Referencias Foundational y Modernas
+- **Foundational crítico:** Benet-Martínez & John (1998) - N=139 trabajadores α=.69, r=.52 problemático
+- **Moderno:** Li et al., Carnegie Mellon (2024) - N=100,000 diálogos universitarios principalmente
+- **⚠️ Limitación:** Sesgo hacia población universitaria en ambos estudios
+- **Recomendación:** Desarrollo específico para población trabajadora hispanohablante
