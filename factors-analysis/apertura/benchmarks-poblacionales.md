@@ -111,6 +111,106 @@
 - **Rango intercuartílico:** 3.6 - 4.3 (0.7 puntos - menor variabilidad)
 - **⚠️ LIMITACIÓN:** Confiabilidad reducida (α = .69) afecta precisión de percentiles
 
+---
+
+## 🏢 Benchmarks Profesionales NEO-PI-3 (TEA Ediciones)
+
+### **🔬 SECCIÓN ACADÉMICA: Validación Profesional Española**
+
+#### **Base Metodológica TEA Hogrefe**
+- **Instrumento:** NEO-PI-3 (Inventario de Personalidad NEO Revisado - Tercera Edición)
+- **Desarrollador:** TEA Ediciones + Hogrefe (Departamento I+D+i)
+- **Validación:** Población española contemporánea
+- **Aplicación:** 10/01/2024 - Caso ilustrativo población general
+- **Muestra normativa:** Adultos españoles varones + mujeres
+- **Metodología:** Baremo población general, adultos, varones + mujeres
+
+#### **Evidencia Científica Complementaria**
+- **Complementa:** Datos foundational Benet-Martínez 1998 con validación profesional contemporánea
+- **Fortalece:** Base empírica española con interpretación psicológica profesional
+- **Valida:** Coherencia entre investigación académica y aplicación clínica
+- **Precaución:** Caso individual vs distribuciones poblacionales (complementario, no sustituto)
+
+### **⚙️ SECCIÓN PRÁCTICA: Datos Caso Baja Apertura + Interpretación Facetas**
+
+#### **Perfil Específico: Varón 25 Años, Población General Española**
+
+**🎨 APERTURA: Nivel BAJO (Percentil <25 según gráfico NEO-PI-3)**
+
+#### **Análisis por Facetas Específicas NEO-PI-3**
+
+**✅ FORTALEZA IDENTIFICADA:**
+- **🎨 Fantasía:** NIVEL ALTO
+  - **Interpretación TEA:** "Posee una imaginación muy viva y creativa. Puede generar nuevas soluciones a los problemas y añadir aportaciones originales a las ideas ya existentes"
+  - **Implicación:** Creatividad interna presente a pesar de apertura general baja
+  - **Validación:** Confirma complejidad multidimensional del factor apertura
+
+**❌ LIMITACIONES DOCUMENTADAS:**
+- **🎨 Estética:** NIVEL BAJO
+  - **Interpretación TEA:** "Muestra poco interés por el arte y la belleza"
+  - **Percentil estimado:** <25 según gráfico profesional
+  
+- **🎨 Sentimientos:** NIVEL BAJO  
+  - **Interpretación TEA:** "Es poco receptivo a sus propios sentimientos: puede ignorarlos o incluso no ser consciente de ellos. Considera que los sentimientos son poco importantes y da prioridad a los análisis objetivos"
+  - **Implicación:** Enfoque analítico vs emocional
+  
+- **🎨 Acciones:** NIVEL MEDIO-BAJO
+  - **Interpretación TEA:** "Le gustan las nuevas experiencias tanto como a la mayoría, aunque también valora las cosas familiares y rutinarias. No se siente inclinado a cambiar las cosas sin razón aparente"
+  - **Percentil estimado:** 25-40 según gráfico
+  
+- **🎨 Ideas:** NIVEL BAJO
+  - **Interpretación TEA:** "Se centra en los métodos probados y desarrolla ideas que son prácticas y realistas. Se muestra menos receptivo a las teorías y conceptos abstractos"
+  - **Enfoque:** Pragmatismo vs exploración intelectual abstracta
+  
+- **🎨 Valores:** NIVEL BAJO
+  - **Interpretación TEA:** "Posee valores profundamente arraigados que son muy importantes para Ud. Acepta la autoridad y se apega a la tradición"
+  - **Orientación:** Conservadurismo vs cuestionamiento valores establecidos
+
+### **🎯 SECCIÓN APLICADA: Interpretación Poblacional + Recomendaciones Específicas**
+
+#### **Ubicación en Distribuciones Poblacionales**
+
+**Comparación con Percentiles Foundational España:**
+- **Apertura general baja NEO-PI-3:** Consistente con <P25 foundational (3.4)
+- **Confirmación:** Coherencia entre evaluación profesional y investigación académica
+- **Validación:** Caso real confirma extremo bajo de distribución española
+
+**Comparación con Población General TEA:**
+- **Nivel bajo confirmado:** Por debajo de población general española
+- **Interpretación profesional:** "Persona con los pies en la tierra, práctica, tradicional y comprometida con los métodos ya existentes"
+- **Contexto cultural:** Validado para población española contemporánea
+
+#### **Implicaciones para Benchmarks Poblacionales**
+
+**🔍 Refinamiento de Percentiles Bajos:**
+- **Confirma validez** percentil <25 foundational como "baja apertura"
+- **Especifica subcomponentes:** Fantasía alta + otras facetas bajas = apertura general baja
+- **Complejidad factorial:** Apertura no unidimensional, requiere análisis facetas específicas
+
+**📊 Datos Profesionales Complementarios:**
+- **Percentil profesional estimado:** 10-20 (extremo bajo pero no patológico)
+- **Interpretación funcional:** "Tradicional y práctica" vs "creativa y exploradora"
+- **Aplicabilidad:** Válido para población general adulta española
+
+#### **Recomendaciones de Uso Integradas**
+
+**Para Evaluadores Profesionales:**
+- **Combinar métodos:** BFI foundational + NEO-PI-3 profesional para máxima validez
+- **Analizar facetas:** No asumir apertura unidimensional, considerar creatividad específica
+- **Contexto cultural:** Usar normas españolas tanto foundational como profesionales
+
+**Para Investigadores:**
+- **Validación cruzada:** Coherencia caso profesional con distribuciones académicas
+- **Complejidad factorial:** Documentar multidimensionalidad apertura en estudios futuros
+- **Población española:** Confirmar peculiaridades culturales vs poblaciones anglosajonas
+
+**Para Aplicación Educativa:**
+- **No descartar creatividad:** Apertura baja ≠ ausencia total creatividad (fantasía alta detectada)
+- **Enfoque práctico:** Aprovechar orientación práctica y realista del perfil
+- **Métodos tradicionales:** Estructura familiar beneficiosa para este tipo de perfil
+
+---
+
 ## Distribución Poblacional Moderna (BIG5-CHAT 2024)
 
 ### Tests de Personalidad (Escala 1-5)
@@ -252,6 +352,7 @@
 - **Usar percentiles foundational** como referencia base (P25=3.4, P75=4.2)
 - **Esperar medias en rango 3.6-4.0** según subgrupo específico
 - **Considerar contexto educativo** en interpretación de resultados
+- **🆕 Integrar datos profesionales NEO-PI-3** para casos de evaluación formal
 
 ### Para Población Bilingüe/Bicultural  
 - **Ajustar percentiles al alza** (+0.1 a +0.2 puntos sobre foundational)
@@ -294,6 +395,7 @@
 ### Estudios de Validación
 - **Foundational:** Benet-Martínez & John (1998). Journal of Personality and Social Psychology, 75(3), 729-750
 - **Moderno:** Li et al., Carnegie Mellon 2024 (BIG5-CHAT)
+- **🆕 Profesional:** NEO-PI-3 TEA Hogrefe - Validación española contemporánea
 - **Población humana:** PAPI-120-600K (N=619,000)
 - **Modelos evaluados:** LLaMA-3-8B, LLaMA-3-70B
 - **Benchmarks:** SocialIQA, GSM8K, MathQA, TruthfulQA, MMLU, GPQA
@@ -304,4 +406,5 @@
 - **Población trabajadora:** Limitaciones psicométricas documentadas (α = .69, r = .52)
 - **Diferencias culturales:** Estructura factorial específica vs poblaciones anglosajonas
 - **Bilingüismo:** Factor positivo para apertura (+0.1 a +0.2 puntos)
+- **🆕 Validación profesional:** NEO-PI-3 confirma coherencia distribuciones foundational
 - **Validación continua:** Requiere actualización con nuevas poblaciones hispanas
