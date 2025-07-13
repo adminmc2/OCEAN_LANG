@@ -398,7 +398,7 @@ interpretacion_baja = {
 1. **⚠️ DETECCIÓN MÁS PROBLEMÁTICA:** "Pattern less clear" que otros factores OCEAN
 2. **📊 ACCURACY LIMITADA:** 60.2% vs 67.7% promedio (problemática documentada)
 3. **🔍 VOCABULARIO INCONSISTENTE:** Z-scores con baja conexión conceptual preservada
-4. **💡 DEPENDENCIA COMPORTAMENTAL:** Factor más dependiente acciones que palabras
+4. **�� DEPENDENCIA COMPORTAMENTAL:** Factor más dependiente acciones que palabras
 
 ### **Protocolo de Validación Obligatorio**
 1. **NUNCA** usar solo detección automática para responsabilidad
