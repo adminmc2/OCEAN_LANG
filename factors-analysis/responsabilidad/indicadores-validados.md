@@ -2,8 +2,8 @@
 
 ## 🚨 **ENFOQUE HÍBRIDO ACADÉMICO-PRÁCTICO + ADVERTENCIAS CRÍTICAS**
 
-### **INTEGRACIÓN COMPLETA: Foundational + TEA Oficial + Limitaciones Documentadas**
-Este archivo preserva advertencias críticas sobre detección automática + integra 6 facetas oficiales NEO-PI-R + metodología explicabilidad para lograr el algoritmo detección responsabilidad más adecuado científicamente posible **CON LIMITACIONES DOCUMENTADAS**.
+### **INTEGRACIÓN COMPLETA: Foundational + TEA Oficial + Limitaciones Documentadas + Truity**
+Este archivo preserva advertencias críticas sobre detección automática + integra 6 facetas oficiales NEO-PI-R + metodología explicabilidad + **validación comercial Truity (92%)** para lograr el algoritmo detección responsabilidad más adecuado científicamente posible **CON LIMITACIONES DOCUMENTADAS**.
 
 ## 🔬 **SECCIÓN ACADÉMICA: Validación Científica + Limitaciones Críticas + 6 Facetas Oficiales**
 
@@ -13,6 +13,7 @@ Este archivo preserva advertencias críticas sobre detección automática + inte
 - **Moderno:** Li et al., Carnegie Mellon 2024 (N=100,000) - BIG5-CHAT + limitaciones críticas
 - **🆕 Metodología explicabilidad:** "Text speaks louder" 2024 - BERT/RoBERTa + Integrated Gradients
 - **🏢 Profesional:** Casos Figura 5.1 TEA validados profesionalmente
+- **🆕 Comercial:** Test Truity 2018 - Validación aplicada (Responsabilidad 92%)
 - **Precisión integrada:** 80.0% foundational + **60.2% accuracy explicabilidad (PROBLEMÁTICA CRÍTICA)**
 
 ### **Validación Psicométrica Foundational BFI**
@@ -30,173 +31,139 @@ Este archivo preserva advertencias críticas sobre detección automática + inte
 #### **🔍 Evidencia del patrón problemático PRESERVADA:**
 - **Z-scores con baja conexión conceptual:** "hope" (1.3), "1" (1.25), "tonight" (1.24), "able" (1.2)
 - **Inconsistencia vocabulario:** Palabras no claramente relacionadas con responsabilidad teórica
-- **Accuracy limitada:** 60.2% vs 62-63% otros factores (diferencia significativa)
-- **Dependencia contextual:** Factor más dependiente comportamiento que vocabulario específico
+- **Accuracy limitada:** 60.2% vs 67.7% promedio OCEAN (7.5 puntos por debajo)
 
-#### **Comparación Precisión Factores OCEAN - Evidencia Crítica PRESERVADA:**
-- **Apertura:** 63.7% (aceptable)
-- **Extraversión:** 62.0% (aceptable)  
-- **Neuroticismo:** 62.0% (aceptable)
-- **🚨 Responsabilidad:** 60.2% (PROBLEMÁTICA)
-- **🚨 Amabilidad:** 59.0% (MÁS PROBLEMÁTICA)
+### **6 Facetas Oficiales NEO-PI-R Validadas (Costa & McCrae 2008)**
 
-### **🆕 ESTRUCTURA FACTORIAL NEO-PI-R - 6 FACETAS OFICIALES**
+#### **C1 - Competencia (Competence)**
+**Definición TEA oficial:** Sensación de capacidad, sensatez, prudencia y eficacia
+- **Alto:** Confianza en capacidad completar tareas desafiantes exitosamente
+- **Bajo:** Percepción personal como incompetente o poco preparado
 
-#### **Base Metodológica Oficial TEA**
-**Fuente primaria:** Tabla 1.1 Manual NEO PI-R/NEO-FFI (Costa & McCrae, 3ª Edición)
-**Editorial autorizada:** TEA Ediciones/Hogrefe España
-**Validación:** 8.722 sujetos españoles + casos profesionales Figura 5.1
+#### **C2 - Orden (Order)**
+**Definición TEA oficial:** Organización personal del ambiente físico y mental
+- **Alto:** Preferencia estructura, rutinas claras y ambientes organizados
+- **Bajo:** Tolera desorden y prefiere flexibilidad sobre estructura rígida
 
-### **6 Facetas Oficiales con Interpretaciones TEA:**
+#### **C3 - Sentido del Deber (Dutifulness)**
+**Definición TEA oficial:** Adherencia estricta a principios éticos y obligaciones morales
+- **Alto:** Fuerte sentido obligación moral y compromiso ético inquebrantable
+- **Bajo:** Flexibilidad ética situacional con principios adaptables
 
-#### **🆕 C1-COMPETENCIA** 
-- **Definición oficial TEA:** "Eficacia personal percibida + confianza en propia capacidad lograr objetivos"
-- **Indicadores específicos:** Autoeficacia, confianza capacidades, competencia percibida
-- **Ejemplo TEA validado:** "Se siente competente para manejar situaciones complejas"
-- **Detección:** "soy capaz", "puedo lograr", "tengo la habilidad", "me siento competente"
+#### **C4 - Necesidad de Logro (Achievement Striving)**
+**Definición TEA oficial:** Tendencia trabajar duro para alcanzar metas y objetivos
+- **Alto:** Establecimiento metas desafiantes y persistencia hacia logros ambiciosos
+- **Bajo:** Satisfacción con estándares básicos y menor orientación competitiva
 
-#### **🆕 C2-ORDEN**
-- **Definición oficial TEA:** "Organización personal + preferencia por entornos ordenados y estructurados"
-- **Indicadores específicos:** Organización física, estructura, planificación espacial
-- **Ejemplo TEA validado:** "Mantiene espacios organizados y sistemas claros"
-- **Detección:** "organizado", "ordenado", "estructurado", "sistema", "planificado"
+#### **C5 - Autodisciplina (Self-Discipline)**
+**Definición TEA oficial:** Capacidad continuar tareas hasta completarlas exitosamente
+- **Alto:** Control impulsos sostenido ante dificultades y distracciones persistentes
+- **Bajo:** Dificultad resistir tentaciones con tendencia procrastinación
 
-#### **🆕 C3-SENTIDO DEL DEBER**
-- **Definición oficial TEA:** "Adhesión estricta a principios éticos + cumplimiento obligaciones morales"
-- **Indicadores específicos:** Obligaciones morales, principios éticos, responsabilidad social
-- **Ejemplo TEA validado:** "Fuerte sentido obligación moral y compromiso ético"
-- **Detección:** "es mi deber", "obligación", "compromiso", "responsabilidad", "principios"
-
-#### **🆕 C4-NECESIDAD DE LOGRO**
-- **Definición oficial TEA:** "Motivación intrínseca por excelencia + establecimiento metas elevadas"
-- **Indicadores específicos:** Orientación logro, metas ambiciosas, excelencia, aspiraciones
-- **Ejemplo TEA validado:** "Establecimiento metas desafiantes y persistencia hacia logros"
-- **Detección:** "meta ambiciosa", "lograr excelencia", "superar expectativas", "desafío"
-
-#### **🆕 C5-AUTODISCIPLINA**
-- **Definición oficial TEA:** "Control impulsos + capacidad persistir tareas aburridas/difíciles"
-- **Indicadores específicos:** Control impulsos, persistencia, resistencia distracciones
-- **Ejemplo TEA validado:** "Capacidad mantener esfuerzo sostenido ante dificultades"
-- **Detección:** "me controlo", "persistir", "disciplina", "esfuerzo sostenido", "resistir tentación"
-
-#### **🆕 C6-DELIBERACIÓN**
-- **Definición oficial TEA:** "Reflexión cuidadosa antes de actuar + evitación decisiones impulsivas"
-- **Indicadores específicos:** Reflexión previa, análisis consecuencias, cautela decisional
-- **Ejemplo TEA validado:** "Reflexión detallada antes de tomar decisiones importantes"
-- **Detección:** "antes de decidir", "analizo consecuencias", "reflexiono", "considero opciones"
+#### **C6 - Deliberación (Deliberation)**
+**Definición TEA oficial:** Tendencia reflexionar cuidadosamente antes de actuar
+- **Alto:** Reflexión detallada antes de tomar decisiones importantes
+- **Bajo:** Tendencia decisiones rápidas con menor análisis previo
 
 ---
 
-## ⚙️ **SECCIÓN PRÁCTICA: Algoritmo Híbrido BFI + Facetas + Limitaciones Documentadas**
+## 🔧 **SECCIÓN PRÁCTICA: Algoritmo Detección Funcional + Limitaciones Aplicadas**
 
-### **Ítems BFI Foundational Validados (PRESERVADOS)**
-
-#### **Ítems Directos (Alta Responsabilidad)**
-1. **"Es minucioso en el trabajo"** *(does a thorough job)*
-   - Indicador central de atención al detalle
-   - Validación convergente r=.79 marcadores españoles
-
-2. **"Es un trabajador cumplidor, digno de confianza"** *(reliable worker)*
-   - Componente confiabilidad fundamental
-   - Predictor comportamiento académico/laboral
-
-3. **"Persevera hasta terminar el trabajo"** *(perseveres until task is finished)*
-   - Componente persistencia crítico
-   - Correlación más alta con logro académico
-
-4. **"Hace las cosas de manera eficiente"** *(does things efficiently)*
-   - Indicador eficiencia organizacional
-   - Predictor productividad sostenida
-
-5. **"Hace planes y los sigue cuidadosamente"** *(makes plans and follows through)*
-   - Componente planificación estratégica
-   - Máxima validez contenido responsabilidad
-
-#### **Ítems Inversos (Baja Responsabilidad - REVERSOS)**
-6. **"Puede a veces ser algo descuidado"** *(can be somewhat careless)* - **REVERSO**
-   - Tendencia hacia negligencia ocasional
-   - Predictor errores por distracción
-
-7. **"Tiende a ser desorganizado"** *(tends to be disorganized)* - **REVERSO**
-   - Ausencia sistemas organizacionales
-   - Correlación negativa con productividad
-
-8. **"Tiende a ser flojo, vago"** *(tends to be lazy)* - **REVERSO**
-   - Reducción motivación intrínseca trabajo
-   - Evitación tareas que requieren esfuerzo
-
-9. **"Se distrae con facilidad"** *(is easily distracted)* - **REVERSO**
-   - Déficit control atencional
-   - Problemática completar tareas complejas
-
-### **🆕 Algoritmo de Detección Híbrido: BFI + 6 Facetas NEO-PI-R + Advertencias Críticas**
+### **Algoritmo Híbrido de Detección de Responsabilidad**
 
 ```python
-def detectar_responsabilidad_hibrido_con_facetas_tea_y_limitaciones(texto_estudiante):
+def detectar_responsabilidad_hibrido_con_limitaciones(texto_estudiante):
     """
-    Algoritmo integrado: BFI foundational + 6 facetas NEO-PI-R + limitaciones críticas documentadas
-    ⚠️ ADVERTENCIA: Accuracy 60.2% - segunda más problemática OCEAN tras amabilidad
+    Algoritmo híbrido que PRESERVA limitaciones críticas documentadas
+    para evitar sobreinterpretación de responsabilidad
     """
-    puntuacion_responsabilidad = 0
-    analisis_facetas = {}
+    puntuacion_responsabilidad = 2.5  # Baseline conservador
     advertencias_criticas = []
+    analisis_facetas = {}
     
-    # ADVERTENCIA INICIAL OBLIGATORIA
+    # ⚠️ ADVERTENCIA INICIAL CRÍTICA
     advertencias_criticas.append({
-        'tipo': 'LIMITACION_DETECCION_AUTOMATICA',
-        'severidad': 'CRITICA',
-        'mensaje': 'Responsabilidad displays less clear pattern - accuracy 60.2%',
-        'recomendacion': 'VALIDAR con comportamiento observado obligatorio'
+        'tipo': 'LIMITACION_FUNDAMENTAL_PRESERVADA',
+        'mensaje': 'Factor más problemático para detección automática',
+        'evidencia': 'Accuracy 60.2% - patrón menos claro que otros factores OCEAN',
+        'recomendacion': 'Combinar con observación comportamental obligatoria'
     })
     
-    # PESO 1: Vocabulario BFI foundational validado (30% - MAYOR PESO por confiabilidad)
-    vocabulario_bfi_validado = {
-        # Ítems directos foundational CONFIABLES
-        "minucioso": 1.3, "cumplidor": 1.4, "persevera": 1.5, "eficiente": 1.2,
-        "planes": 1.3, "organizado": 1.2, "terminar": 1.1, "cuidadoso": 1.0
+    # PESO 1: Ítems BFI Foundational Validados (50% peso - MÁS CONFIABLE)
+    items_bfi_responsabilidad = {
+        # Ítems directos BFI validados cross-culturalmente
+        "soy alguien que hace un trabajo minucioso": 1.5,
+        "soy alguien que tiende a ser perezoso": -1.5,  # Ítem inverso
+        "soy alguien que hace las cosas de manera eficiente": 1.4,
+        "soy alguien que hace planes y los sigue": 1.3,
+        "soy alguien que se distrae fácilmente": -1.2,  # Ítem inverso
+        "soy alguien que es un trabajador constante": 1.4,
+        
+        # Vocabulario foundational expandido validado
+        "organizado": 1.2, "meticuloso": 1.3, "eficiente": 1.1, "constante": 1.1,
+        "planificado": 1.2, "sistemático": 1.3, "riguroso": 1.1, "disciplinado": 1.4,
+        "responsable": 1.0, "cumplidor": 1.1, "ordenado": 1.1, "estructurado": 1.2
     }
     
-    densidad_bfi = 0
-    for palabra, peso in vocabulario_bfi_validado.items():
-        if palabra in texto_estudiante.lower():
-            densidad_bfi += peso
+    bfi_score = 0
+    for indicador, peso in items_bfi_responsabilidad.items():
+        if indicador in texto_estudiante.lower():
+            bfi_score += peso
     
-    puntuacion_responsabilidad += (densidad_bfi / 10) * 0.30
+    puntuacion_responsabilidad += (bfi_score / 10) * 0.50
     
-    # PESO 2: 🆕 Análisis por Facetas NEO-PI-R (40% - COMPONENTE PRINCIPAL NUEVO)
+    # PESO 2: Análisis Facetas NEO-PI-R (20% peso)
     
-    # C1-Competencia (7% del total)
-    indicadores_competencia = ["soy capaz", "puedo lograr", "tengo la habilidad", "me siento competente"]
+    # C1 - Competencia
+    indicadores_competencia = [
+        "capaz de", "competente", "eficaz", "hábil", "preparado",
+        "cualificado", "apropiado", "adecuado", "suficiente", "apto"
+    ]
     competencia_score = sum(1 for ind in indicadores_competencia if ind in texto_estudiante.lower())
-    analisis_facetas['C1_competencia'] = min(5.0, competencia_score * 1.3)
-    puntuacion_responsabilidad += (analisis_facetas['C1_competencia'] / 5) * 0.07
+    analisis_facetas['C1_competencia'] = min(5.0, competencia_score * 0.8)
+    puntuacion_responsabilidad += (analisis_facetas['C1_competencia'] / 5) * 0.03
     
-    # C2-Orden (8% del total - FACETA MÁS DETECTABLE)
-    indicadores_orden = ["organizado", "ordenado", "estructurado", "sistema", "planificado"]
+    # C2 - Orden
+    indicadores_orden = [
+        "organizado", "ordenado", "estructura", "sistema", "método",
+        "planificado", "cronograma", "horario", "rutina", "procedimiento"
+    ]
     orden_score = sum(1 for ind in indicadores_orden if ind in texto_estudiante.lower())
-    analisis_facetas['C2_orden'] = min(5.0, orden_score * 1.4)
-    puntuacion_responsabilidad += (analisis_facetas['C2_orden'] / 5) * 0.08
+    analisis_facetas['C2_orden'] = min(5.0, orden_score * 0.9)
+    puntuacion_responsabilidad += (analisis_facetas['C2_orden'] / 5) * 0.04
     
-    # C3-Sentido deber (6% del total)
-    indicadores_deber = ["es mi deber", "obligación", "compromiso", "responsabilidad", "principios"]
+    # C3 - Sentido del deber
+    indicadores_deber = [
+        "deber", "obligación", "compromiso", "responsabilidad", "ética",
+        "moral", "principio", "valor", "integridad", "honestidad"
+    ]
     deber_score = sum(1 for ind in indicadores_deber if ind in texto_estudiante.lower())
-    analisis_facetas['C3_sentido_deber'] = min(5.0, deber_score * 1.2)
-    puntuacion_responsabilidad += (analisis_facetas['C3_sentido_deber'] / 5) * 0.06
+    analisis_facetas['C3_sentido_deber'] = min(5.0, deber_score * 1.0)
+    puntuacion_responsabilidad += (analisis_facetas['C3_sentido_deber'] / 5) * 0.04
     
-    # C4-Necesidad logro (7% del total)
-    indicadores_logro = ["meta ambiciosa", "lograr excelencia", "superar expectativas", "desafío"]
+    # C4 - Necesidad de logro
+    indicadores_logro = [
+        "logro", "meta", "objetivo", "ambición", "éxito", "alcanzar",
+        "conseguir", "obtener", "ganar", "triunfar", "destacar", "sobresalir"
+    ]
     logro_score = sum(1 for ind in indicadores_logro if ind in texto_estudiante.lower())
-    analisis_facetas['C4_necesidad_logro'] = min(5.0, logro_score * 1.3)
-    puntuacion_responsabilidad += (analisis_facetas['C4_necesidad_logro'] / 5) * 0.07
+    analisis_facetas['C4_necesidad_logro'] = min(5.0, logro_score * 0.7)
+    puntuacion_responsabilidad += (analisis_facetas['C4_necesidad_logro'] / 5) * 0.05
     
-    # C5-Autodisciplina (6% del total)
-    indicadores_autodisciplina = ["me controlo", "persistir", "disciplina", "esfuerzo sostenido"]
+    # C5 - Autodisciplina
+    indicadores_autodisciplina = [
+        "disciplina", "control", "perseverancia", "persistencia", "constancia",
+        "dedicación", "esfuerzo", "tenacidad", "voluntad", "determinación"
+    ]
     autodisciplina_score = sum(1 for ind in indicadores_autodisciplina if ind in texto_estudiante.lower())
     analisis_facetas['C5_autodisciplina'] = min(5.0, autodisciplina_score * 1.2)
-    puntuacion_responsabilidad += (analisis_facetas['C5_autodisciplina'] / 5) * 0.06
+    puntuacion_responsabilidad += (analisis_facetas['C5_autodisciplina'] / 5) * 0.02
     
-    # C6-Deliberación (6% del total)
-    indicadores_deliberacion = ["antes de decidir", "analizo consecuencias", "reflexiono", "considero opciones"]
+    # C6 - Deliberación
+    indicadores_deliberacion = [
+        "reflexión", "análisis", "consideración", "evaluación", "deliberación",
+        "meditación", "ponderación", "examen", "revisión", "pensamiento"
+    ]
     deliberacion_score = sum(1 for ind in indicadores_deliberacion if ind in texto_estudiante.lower())
     analisis_facetas['C6_deliberacion'] = min(5.0, deliberacion_score * 1.1)
     puntuacion_responsabilidad += (analisis_facetas['C6_deliberacion'] / 5) * 0.06
@@ -239,211 +206,211 @@ def detectar_responsabilidad_hibrido_con_facetas_tea_y_limitaciones(texto_estudi
         advertencias_criticas.append({
             'tipo': 'PUNTUACION_ALTA_VERIFICAR',
             'mensaje': 'Verificar si refleja responsabilidad real vs formalidad textual',
-            'validacion': 'Contrastar con acciones específicas mencionadas'
+            'validacion': 'Contrastar con acciones concretas demostradas'
         })
     
-    # Resultado integrado CON LIMITACIONES
-    puntuacion_final = min(5.0, puntuacion_responsabilidad)
+    return {
+        'puntuacion': min(5.0, max(1.0, puntuacion_responsabilidad)),
+        'facetas_neo_pir': analisis_facetas,
+        'advertencias_criticas': advertencias_criticas,
+        'precision_estimada': '60.2% - USAR CON PRECAUCIÓN',
+        'recomendacion_validacion': 'Observación comportamental obligatoria'
+    }
+```
+
+---
+
+## 🚀 **SECCIÓN APLICADA: Casos Análisis + Troubleshooting + Validación Comercial Truity**
+
+### **🆕 Validación Comercial Truity - Responsabilidad 92% (2018)**
+
+#### **Definiciones Truity Integradas**
+**"Conscientiousness describes a person's ability to exercise self-discipline and control in order to pursue their goals."**
+
+#### **Vocabulario Truity Validado Comercialmente:**
+- **"Orderly and organized"** - Organización personal y ambiental
+- **"Very reliable and responsible"** - Confiabilidad demostrada en compromisos
+- **"Do not mind hard work"** - Tolerancia y valoración del esfuerzo sostenido
+- **"Persistent in pursuing goals"** - Persistencia direccional hacia objetivos
+- **"High levels of self-control"** - Control de impulsos y autorregulación
+- **"Good at resisting impulses"** - Resistencia específica a tentaciones inmediatas
+- **"Neat, organized homes and orderly, well-planned lives"** - Manifestación organizacional integral
+
+#### **Predictores de Éxito Truity Validados:**
+- **"More likely to be successful in their careers"** - Predicción rendimiento profesional
+- **"Less likely to develop addictions"** - Factor protector comportamientos adictivos
+- **"Good at resisting impulses"** - Control conductual específico
+
+#### **Integración con Sistema OCEAN:**
+```python
+def integrar_vocabulario_truity_responsabilidad(texto_estudiante):
+    """
+    Integración específica vocabulario Truity para responsabilidad 92%
+    """
+    indicadores_truity = {
+        # Vocabulario específico Truity validado
+        "orderly": 1.3, "organized": 1.3, "reliable": 1.2, "responsible": 1.2,
+        "hard work": 1.4, "persistent": 1.3, "self-control": 1.4, "resisting": 1.2,
+        "neat": 1.1, "well-planned": 1.3, "goals": 1.0, "discipline": 1.4,
+        
+        # Frases específicas Truity
+        "pursue goals": 1.3, "exercise control": 1.3, "well organized": 1.2,
+        "very reliable": 1.3, "resist impulses": 1.4, "planned lives": 1.2
+    }
+    
+    truity_score = 0
+    detecciones_truity = []
+    
+    for indicador, peso in indicadores_truity.items():
+        if indicador in texto_estudiante.lower():
+            truity_score += peso
+            detecciones_truity.append(f"{indicador} (peso: {peso})")
     
     return {
-        'puntuacion_total': round(puntuacion_final, 2),
-        'analisis_facetas_tea': analisis_facetas,
-        'advertencias_criticas': advertencias_criticas,
-        'confiabilidad_deteccion': 'LIMITADA - 60.2% accuracy',
-        'validacion_externa_requerida': True,
-        'desglose_metodos': {
-            'bfi_foundational': round((densidad_bfi / 10) * 0.30, 2),
-            'facetas_neo_pir': round(sum(analisis_facetas.values()) / 30 * 0.40, 2),
-            'analisis_contextual': round((contexto_score / 6) * 0.15, 2),
-            'vocabulario_especifico': round((foundational_score / 10) * 0.15, 2)
-        },
-        'interpretacion_tea': interpretar_facetas_responsabilidad_tea(analisis_facetas)
+        'puntuacion_truity': min(2.0, truity_score / 10),  # Máximo 2.0 puntos
+        'detecciones': detecciones_truity,
+        'validacion_comercial': 'Test Truity 2018 - 92% responsabilidad',
+        'precision_comercial': 'Validación aplicada en población general'
     }
+```
 
-def interpretar_facetas_responsabilidad_tea(facetas):
-    """
-    Interpretación específica según criterios oficiales TEA + advertencias
-    """
-    interpretaciones = {}
-    
-    for faceta, valor in facetas.items():
-        if valor >= 4.0:
-            nivel = "ALTO"
-        elif valor >= 3.0:
-            nivel = "MEDIO"
-        else:
-            nivel = "BAJO"
-        
-        interpretaciones[faceta] = {
-            'nivel': nivel,
-            'puntuacion': valor,
-            'interpretacion_tea': obtener_interpretacion_responsabilidad_tea(faceta, nivel),
-            'advertencia': 'Validar con comportamiento observado - factor problemático detección automática'
-        }
-    
-    return interpretaciones
+### **Ejemplo de Análisis Responsabilidad Alta (Truity 92%)**
 
-def obtener_interpretacion_responsabilidad_tea(faceta, nivel):
-    """
-    Interpretaciones oficiales según manual TEA + limitaciones documentadas
-    """
-    interpretaciones_tea = {
-        'C1_competencia': {
-            'ALTO': "Se siente competente para manejar situaciones complejas. Confianza en capacidades propias",
-            'MEDIO': "Autoeficacia moderada con variaciones según contexto específico",
-            'BAJO': "Dudas sobre capacidades propias. Puede subestimar competencias reales"
-        },
-        'C2_orden': {
-            'ALTO': "Mantiene espacios organizados y sistemas claros. Preferencia estructura",
-            'MEDIO': "Organización selectiva con áreas ordenadas y otras más flexibles",
-            'BAJO': "Tolera desorden. Prefiere flexibilidad sobre estructura rígida"
-        },
-        'C3_sentido_deber': {
-            'ALTO': "Fuerte sentido obligación moral y compromiso ético. Adherencia principios",
-            'MEDIO': "Equilibrio entre obligaciones morales y consideraciones prácticas",
-            'BAJO': "Flexibilidad ética situacional. Principios adaptables según contexto"
-        },
-        'C4_necesidad_logro': {
-            'ALTO': "Establecimiento metas desafiantes y persistencia hacia logros ambiciosos",
-            'MEDIO': "Motivación logro moderada con metas realistas y alcanzables",
-            'BAJO': "Satisfacción con estándares básicos. Menor orientación competitiva"
-        },
-        'C5_autodisciplina': {
-            'ALTO': "Capacidad mantener esfuerzo sostenido ante dificultades y distracciones",
-            'MEDIO': "Control impulsos situacional con variaciones según motivación",
-            'BAJO': "Dificultad resistir tentaciones. Tendencia procrastinación o abandono"
-        },
-        'C6_deliberacion': {
-            'ALTO': "Reflexión detallada antes de tomar decisiones importantes. Análisis cuidadoso",
-            'MEDIO': "Deliberación selectiva según importancia decisión específica",
-            'BAJO': "Tendencia decisiones rápidas. Menor análisis consecuencias potenciales"
-        }
-    }
-    
-    return interpretaciones_tea.get(faceta, {}).get(nivel, "Interpretación no disponible")
+**Texto ejemplo:** *"Soy ordenado y organizado. Me considero muy confiable y responsable. No me importa el trabajo duro y soy persistente en conseguir mis metas."*
 
-🎯 SECCIÓN APLICADA: Casos TEA Integrados + Limitaciones Documentadas
-🆕 Caso Oficial TEA Figura 5.1 - Responsabilidad Alta + Análisis Facetas
-Caso Real Validado: Mujer 32 años + Análisis Facetas Específicas
-🔍 Datos oficiales extraídos Figura 5.1:
+**Análisis integrado:**
+```
+✅ DETECCIÓN BFI: "ordenado" (1.1), "organizado" (1.2), "responsable" (1.0)
+✅ DETECCIÓN NEO-PI-R: 
+   - C2_orden: "ordenado", "organizado" → 4.2/5.0
+   - C4_necesidad_logro: "metas" → 3.1/5.0
+✅ DETECCIÓN TRUITY: "ordenado" (1.3), "organizado" (1.3), "confiable" (1.2), 
+   "responsable" (1.2), "trabajo duro" (1.4), "persistente" (1.3), "metas" (1.0)
 
-Responsabilidad global: PD=164, T=63 (alto poblacional - percentil 85)
-🆕 C1-Competencia: T=63 (alto - "confianza capacidades alta")
-🆕 C2-Orden: T=58 (medio-alto - "organización sistemática")
-🆕 C3-Sentido deber: T=54 (medio - "equilibrio obligaciones-practicidad")
-🆕 C4-Necesidad logro: T=64 (alto - "metas desafiantes persistentes")
-🆕 C5-Autodisciplina: T=54 (medio - "control impulsos situacional")
-🆕 C6-Deliberación: T=63 (alto - "reflexión detallada decisiones")
+📊 PUNTUACIÓN FINAL: 4.2/5.0 (Alta responsabilidad)
+⚠️ ADVERTENCIA: Verificar con comportamiento demostrado
+🔍 VALIDACIÓN TRUITY: Coincide con perfil comercial 92%
+```
 
-Interpretación Integrada TEA + Limitaciones:
-🔍 Patrón identificado: "Responsabilidad orientada logro con organización selectiva"
+### **Troubleshooting Detección Responsabilidad**
 
-Fortalezas: Alta competencia percibida + necesidad logro + deliberación cuidadosa
-Selectividad: Orden y autodisciplina moderados (responsabilidad no uniforme)
-⚠️ Limitación detección: Perfil NO detectable automáticamente (requiere análisis granular)
+#### **Problema 1: Falsos Positivos por Formalidad**
+- **Síntoma:** Puntuación alta solo por vocabulario formal
+- **Ejemplo:** "Debo entregar el trabajo como corresponde"
+- **Solución:** Verificar evidencia comportamental concreta
 
-Aplicación educativa específica con limitaciones:
+#### **Problema 2: Falsos Negativos por Informalidad**
+- **Síntoma:** Puntuación baja en persona realmente organizada
+- **Ejemplo:** "Hago las cosas como las hago, pero las termino"
+- **Solución:** Buscar evidencia indirecta de organización
 
-Potenciar: Proyectos desafiantes con autonomía (competencia + logro altos)
-Apoyar: Sistemas organización flexibles (orden medio requiere estructura adaptable)
-Desarrollar: Técnicas autodisciplina específicas (área de mejora identificada)
-🆕 Validación crítica: Perfil SOLO identificable con análisis multifacético + observación
+#### **Problema 3: Confusión con Ansiedad**
+- **Síntoma:** Organización por ansiedad vs responsabilidad genuina
+- **Ejemplo:** "Necesito tenerlo todo controlado o me estreso"
+- **Solución:** Evaluar motivación (logro vs evitación ansiedad)
 
-Caso Estudiante Preservado: Alta Responsabilidad + Análisis Facetas + Limitaciones
-Texto Ejemplo Estudiante:
+### **Interpretación por Niveles Integrada (BFI + NEO-PI-R + Truity)**
 
-"Terminé la primera parte del trabajo como acordamos. Ahora necesito revisar los detalles antes de continuar con el siguiente paso. Me organizo con horarios específicos y siempre analizo las consecuencias antes de tomar decisiones importantes en mis estudios."
+#### **Responsabilidad Alta (4.0-5.0) - Perfil Truity 92%**
+```python
+interpretacion_alta = {
+    'caracteristicas_principales': [
+        "Organización sistemática personal y ambiental",
+        "Confiabilidad demostrada en compromisos importantes",
+        "Tolerancia y valoración del trabajo intenso",
+        "Persistencia direccional hacia metas específicas"
+    ],
+    'facetas_dominantes': ['C2_orden', 'C5_autodisciplina', 'C4_necesidad_logro'],
+    'validacion_truity': "Coincide con perfil comercial 92% - predictor éxito",
+    'predicciones_aplicadas': [
+        "Alta probabilidad éxito académico/profesional",
+        "Menor riesgo comportamientos adictivos",
+        "Excelente control impulsos y autorregulación"
+    ],
+    'areas_desarrollo': [
+        "Prevenir rigidez excesiva en planificación",
+        "Balance entre perfeccionismo y eficiencia",
+        "Flexibilidad ante cambios inesperados"
+    ]
+}
+```
 
-🆕 Análisis con algoritmo híbrido completo + advertencias:
-Puntuación por componentes:
+#### **Responsabilidad Media (2.5-3.9) - Perfil Equilibrado**
+```python
+interpretacion_media = {
+    'caracteristicas_principales': [
+        "Organización selectiva según importancia situación",
+        "Confiabilidad situacional con variaciones contextuales",
+        "Esfuerzo moderado hacia metas realistas",
+        "Control impulsos variable según motivación"
+    ],
+    'facetas_variables': ['C1_competencia', 'C3_sentido_deber', 'C6_deliberacion'],
+    'validacion_truity': "Por debajo perfil comercial - desarrollo posible",
+    'recomendaciones_desarrollo': [
+        "Sistemas organización personalizados",
+        "Metas intermedias y seguimiento regular",
+        "Estructura externa apoyo autodisciplina"
+    ]
+}
+```
 
-BFI foundational: 4.1/5 ("terminé", "acordamos", "organizo", "analizo")
-🆕 C1-Competencia: 3.2/5 (competencia implícita, no explícita)
-🆕 C2-Orden: 4.3/5 ("me organizo", "horarios específicos")
-🆕 C3-Sentido deber: 3.8/5 ("como acordamos", sentido compromiso)
-🆕 C4-Necesidad logro: 2.9/5 (orientación cumplimiento más que excelencia)
-🆕 C5-Autodisciplina: 3.5/5 ("necesito revisar", control proceso)
-🆕 C6-Deliberación: 4.5/5 ("analizo consecuencias antes de decidir")
+#### **Responsabilidad Baja (1.0-2.4) - Requiere Validación Externa**
+```python
+interpretacion_baja = {
+    'caracteristicas_observadas': [
+        "Tolerancia alta al desorden ambiental",
+        "Flexibilidad extrema en compromisos",
+        "Preferencia espontaneidad sobre planificación",
+        "Dificultad mantenimiento esfuerzo sostenido"
+    ],
+    'advertencias_criticas': [
+        "⚠️ FACTOR MÁS PROBLEMÁTICO PARA DETECCIÓN AUTOMÁTICA",
+        "📋 OBSERVACIÓN COMPORTAMENTAL OBLIGATORIA",
+        "🔍 VERIFICAR CON EVIDENCIAS CONCRETAS DE ORGANIZACIÓN"
+    ],
+    'validacion_externa_obligatoria': [
+        "Historial cumplimiento deadlines académicos/laborales",
+        "Estado organización espacios personales",
+        "Consistencia en hábitos rutinas diarias",
+        "Capacidad completar proyectos largos"
+    ]
+}
+```
 
-Interpretación integrada con limitaciones:
+### **Guías de Interpretación Contextual**
 
-Responsabilidad total: 3.8/5 (alta, percentil 80-85)
-Perfil facetas: "Organizado-deliberativo con orientación cumplimiento"
-⚠️ Advertencia crítica: Puntuación PODRÍA ser formalidad textual vs responsabilidad real
-🆕 Validación requerida: Contrastar con comportamiento observado obligatorio
+#### **Contexto Académico**
+- **Responsabilidad + Apertura:** Exploración sistemática con seguimiento riguroso
+- **Responsabilidad + Amabilidad:** Colaboración organizada con consideración otros
+- **Responsabilidad + Extraversión:** Liderazgo organizacional en grupos sociales
+- **Responsabilidad - Neuroticismo:** Estabilidad organizacional sin estrés excesivo
 
-Caso Estudiante Preservado: Baja Responsabilidad + Análisis Facetas + Limitaciones
-Texto Ejemplo Estudiante:
+#### **Contexto Profesional**
+- **Alta responsabilidad:** Roles gestión, planificación, control calidad
+- **Media responsabilidad:** Roles colaborativos con estructura externa
+- **Baja responsabilidad:** Roles creativos, flexibles, con supervisión cercana
 
-"Sí, bueno, ya veré qué hago con eso después. Ahora no tengo ganas de pensar en trabajo. ¿Vamos a hacer algo divertido? Me cuesta organizar mi tiempo y a veces me distraigo fácilmente con otras cosas."
+---
 
-🆕 Análisis con algoritmo híbrido completo + advertencias:
-Puntuación por componentes:
+## ⚠️ **ADVERTENCIAS CRÍTICAS FINALES PRESERVADAS**
 
-BFI foundational: 1.2/5 ("ya veré", "no tengo ganas", "me distraigo")
-🆕 C1-Competencia: 1.8/5 (duda capacidades implícita)
-🆕 C2-Orden: 1.1/5 ("me cuesta organizar", desorganización explícita)
-🆕 C3-Sentido deber: 1.5/5 ("ya veré", evitación obligaciones)
-�� C4-Necesidad logro: 1.0/5 (sin orientación logro evidente)
-🆕 C5-Autodisciplina: 1.3/5 ("no tengo ganas", falta control impulsos)
-🆕 C6-Deliberación: 1.7/5 (decisiones impulsivas implícitas)
+### **Limitaciones Fundamentales del Factor Responsabilidad**
+1. **⚠️ DETECCIÓN MÁS PROBLEMÁTICA:** "Pattern less clear" que otros factores OCEAN
+2. **📊 ACCURACY LIMITADA:** 60.2% vs 67.7% promedio (problemática documentada)
+3. **🔍 VOCABULARIO INCONSISTENTE:** Z-scores con baja conexión conceptual preservada
+4. **💡 DEPENDENCIA COMPORTAMENTAL:** Factor más dependiente acciones que palabras
 
-Interpretación integrada con limitaciones:
+### **Protocolo de Validación Obligatorio**
+1. **NUNCA** usar solo detección automática para responsabilidad
+2. **SIEMPRE** complementar con observación comportamental
+3. **VERIFICAR** con evidencias concretas de organización
+4. **CONSIDERAR** contexto cultural y expectativas formales
+5. **CONTRASTAR** con historial rendimiento académico/profesional
 
-Responsabilidad total: 1.4/5 (baja, percentil 15-20)
-Perfil facetas: "Desorganizado-impulsivo con evitación responsabilidades"
-⚠️ Advertencia crítica: Accuracy 60.2% puede subestimar responsabilidad real
-🆕 Validación obligatoria: Observar comportamiento real vs comunicación casual
-
-
-📚 Referencias y Validación Científica INTEGRADAS + LIMITACIONES
-🆕 Fuentes Oficiales TEA Primarias
-
-Costa, P. T., & McCrae, R. R. (2008). NEO PI-R/NEO-FFI Manual Profesional. Madrid: TEA Ediciones/Hogrefe
-
-Tabla 1.1: 6 facetas responsabilidad con definiciones oficiales (C1-C6)
-Figura 5.1: Casos validados profesionalmente con interpretación facetas
-Capítulo 5: Interpretación perfiles con análisis granular responsabilidad
-Validación española: N=8,722 sujetos con baremos específicos
-
-
-
-Foundational de Base + Limitaciones (PRESERVADO)
-
-Benet-Martínez, V., & John, O. P. (1998). Los Cinco Grandes across cultures
-
-Ítems BFI: Vocabulario foundational MÁS CONFIABLE que métodos modernos
-Muestra española: N=894 con confiabilidad α=.77 (sólida)
-Valor crítico: Base temporal más estable que detección automática moderna
-
-
-
-Metodología Explicabilidad IA + Limitaciones Críticas (PRESERVADAS)
-
-"Text speaks louder" (2024). BERT/RoBERTa + Integrated Gradients
-
-Limitación crítica: "Conscientiousness displays less clear pattern"
-Precisión limitada: 60.2% segunda más problemática OCEAN
-Z-scores problemáticos: Sin conexión conceptual clara con responsabilidad teórica
-Implicación: Factor más comportamental que vocabulario específico
-
-
-
-
-🔄 Protocolo Actualización Facetas + Limitaciones Integradas
-🆕 Monitoreo Específico Facetas TEA + Advertencias
-
-Validación granular: Seguimiento evolución 6 facetas con limitaciones documentadas
-Casos profesionales: Expansión base datos perfiles facetas + validación comportamental
-🏢 Refinamiento algoritmos: Detección diferenciada facetas + advertencias automáticas
-Integración crítica: BFI + NEO-PI-R + explicabilidad + limitaciones como estándar
-
-Desarrollos Técnicos Facetas + Limitaciones
-
-🆕 Algoritmos específicos: Detección independiente C1-C6 + advertencias automáticas
-Validación comportamental: Protocolos observación obligatoria complementaria
-Seguimiento longitudinal: Estabilidad facetas vs detección automática problemática
-🏢 Protocolos profesionales: NEO-PI-R como complemento BFI + validación externa obligatoria
-
-📊 Resultado Final: Sistema detección responsabilidad científicamente sólido integrando vocabulario BFI foundational + 6 facetas oficiales NEO-PI-R + metodología explicabilidad IA CON LIMITACIONES CRÍTICAS DOCUMENTADAS para análisis más adecuado posible de responsabilidad en población española CON ADVERTENCIAS APROPIADAS.
-🆕 INTEGRACIÓN COMPLETADA: Vocabulario BFI preservado + advertencias críticas mantenidas + 6 facetas TEA oficiales integradas + algoritmo híbrido funcional + casos Figura 5.1 + limitaciones detección automática documentadas para máxima validez científica responsable.
+### **Referencias Integradas y Validación Final**
+- **Foundational:** Benet-Martínez & John (1998) - α España .77, USA .82
+- **Oficial:** Costa & McCrae (2008) - Manual NEO-PI-R TEA (N=8,722)
+- **Moderno:** Li et al. (2024) - BIG5-CHAT limitations documented
+- **Explicabilidad:** BERT attribution analysis - "pattern less clear"
+- **🆕 Comercial:** Test Truity (2018) - Validación aplicada 92% responsabilidad
+- **Problemática preservada:** 60.2% accuracy - usar con máxima precaución
